@@ -11,14 +11,14 @@ sections:
       subtitle: Vaccination Registration
       background: /images/vaccine-hero.png
       button: Pre-register Now
-      url: https://go.gov.sg/preregister-vaccine
+      url: 'https://go.gov.sg/preregister-vaccine'
       key_highlights:
         - title: Book appointment
           description: Already receive the code?
-          url: https://book.vaccine.gov.sg
+          url: 'https://book.vaccine.gov.sg'
         - title: Health Advisory
           description: Health Advisory
-          url: https://gmail.com
+          url: 'https://gmail.com'
         - title: FAQ
           description: Frequently Asked Questions
           url: /faq/
@@ -32,4 +32,10 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
