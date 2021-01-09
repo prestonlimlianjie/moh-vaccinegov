@@ -1,12 +1,12 @@
 logo: /images/MOH_Hires.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
-    url: /faq/
   - title: Information
     url: /Information/
   - title: Collection
     collection: collection
   - title: News
     resource_room: true
+  - title: Faq
+    url: /faq/
+  - title: Contact Us
+    url: /contact-us/
