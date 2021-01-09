@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: '#97D3D3'
     - title: media-color-three
-      color: '#00838f'
+      color: '#EAF1F1'
     - title: media-color-four
-      color: '#00838f'
+      color: '#12115A'
     - title: media-color-five
-      color: '#00838f'
+      color: '#8292A6'
 collections:
   collection:
     output: true
