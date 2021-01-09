@@ -3,10 +3,10 @@ url: ''
 favicon: /images/favicon.ico
 colors:
   primary-color: '#291B99'
-  secondary-color: '#CCF5DF'
+  secondary-color: '#97D3D3'
   media-colors:
     - title: media-color-one
-      color: '#1B1A6D'
+      color: '#CCF5DF'
     - title: media-color-two
       color: '#97D3D3'
     - title: media-color-three
