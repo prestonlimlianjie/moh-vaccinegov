@@ -7,7 +7,7 @@ permalink: /
 notification: ''
 sections:
   - hero:
-      title: COVID-19 Vaccine Registration
+      title: COVID-19
       background: /images/IsomerLanding1.png
       button: Pre-register Now
       url: 'https://preregister.vaccine.gov.sg/'
@@ -21,7 +21,7 @@ sections:
         - title: FAQ
           description: Frequently Asked Questions
           url: /faq/
-      subtitle: '  '
+      subtitle: Vaccination Registration
   - infobar:
       title: Infobar title
       subtitle: Subtitle
