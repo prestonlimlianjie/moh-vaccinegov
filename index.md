@@ -4,21 +4,20 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ''
 sections:
   - hero:
       title: COVID-19 Vaccine Registration
-      subtitle: Vaccination Registration
       background: /images/vaccine-hero.png
       button: Pre-register Now
-      url: 'https://go.gov.sg/preregister-vaccine'
+      url: 'https://preregister.vaccine.gov.sg/'
       key_highlights:
         - title: Book appointment
           description: Already receive the code?
           url: 'https://book.vaccine.gov.sg'
         - title: Health Advisory
-          description: Health Advisory
-          url: 'https://gmail.com'
+          description: What should I take note of?
+          url: /advisory/
         - title: FAQ
           description: Frequently Asked Questions
           url: /faq/
