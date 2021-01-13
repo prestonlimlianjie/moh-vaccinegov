@@ -8,5 +8,7 @@ links:
     resource_room: true
   - title: Faq
     url: /faq/
+  - title: Faq 2
+    url: /frequently-asked-questions/
   - title: Contact Us
     url: /contact-us/
