@@ -2,8 +2,8 @@ logo: /images/MOH_Hires.png
 links:
   - title: Information
     url: /Information/
-  - title: Frequently Asked Questions
-    collection: Frequently Asked Questions
+  - title: What do I Need to Know
+    collection: What do I Need to Know
   - title: News
     resource_room: true
   - title: Faq
