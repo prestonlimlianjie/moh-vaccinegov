@@ -313,11 +313,14 @@ $desktop: 960px + (2 * $gap) !default;
   .tab-label {
     display: flex;
     justify-content: space-between;
-    // border-top: 1px solid #ddd;
-    padding: 1em 0;
+    padding: 1em;
     font-size: 1.25rem;
     color: #000000;
     cursor: pointer;
+    background: #F1F2F4;
+    border-radius: .5em;
+    margin: .2em 0;
+    transition: all .1s;
 
     /* Icon */
     &:hover {
@@ -337,8 +340,8 @@ $desktop: 960px + (2 * $gap) !default;
     max-height: 0;
     padding: 0;
     border: none;
-    border-bottom: 1px solid #ddd;
-    transition: all .1s;
+    // border-bottom: 1px solid #ddd;
+    // transition: all .1s;
     margin-top: 0;
   }
   .tab-close {
@@ -364,8 +367,9 @@ $desktop: 960px + (2 * $gap) !default;
     }
     ~ .tab-content {
       max-height: 600vh;
+      padding: 1em;
       padding-bottom: 3em;
-      color: #666;
+      color: #2D3642;
       // padding: 1em;
     }
   }
