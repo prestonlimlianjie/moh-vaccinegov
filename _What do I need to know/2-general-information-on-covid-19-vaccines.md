@@ -2,6 +2,7 @@
 title: General Information on COVID-19 Vaccines
 permalink: /what-do-i-need-to-know/general-information
 ---
+
 <div class="accordion">
 			<div class="tabs">
 				<h3>Appointment Booking</h3>						
