@@ -2,7 +2,6 @@
 title: General Information on COVID-19 Vaccines
 permalink: /what-do-i-need-to-know/general-information
 ---
-
 <div class="accordion">
 			<div class="tabs">
 				<h3>Appointment Booking</h3>						
@@ -87,4 +86,3 @@ e.  virus-like particle (VLP) vaccines: e.g. Medicagor</p>
 				</div>
 			</div>
 </div>
-
