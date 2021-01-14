@@ -3,11 +3,6 @@ title: Sub Page
 permalink: /collection/page/sub-page
 third_nav_title: Page
 ---
----
-title: Frequently Asked Questions
-permalink: /frequently-asked-questions
----
-
 <div class="accordion">
 			<div class="tabs">
 				<h3>Appointment Booking</h3>						
@@ -82,4 +77,3 @@ permalink: /frequently-asked-questions
 				</div>
 			</div>
 </div>
-
