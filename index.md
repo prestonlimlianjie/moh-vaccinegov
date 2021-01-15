@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Vaccine.gov.sg
+title: Ministry of Health COVID-19 Vaccination Registration
 description: Preregister for Vaccination in Singapore
 image: /images/isomer-logo.svg
 permalink: /
