@@ -8,7 +8,7 @@ notification: ''
 sections:
   - hero:
       title: COVID-19 Vaccination Registration
-      background: /images/IsomerLandingPhoto.png
+      background: /images/IsomerLanding.png
       button: Pre-register Now
       url: 'https://preregister.vaccine.gov.sg/'
       key_highlights:

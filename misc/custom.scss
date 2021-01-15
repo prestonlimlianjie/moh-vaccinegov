@@ -375,3 +375,27 @@ $desktop: 960px + (2 * $gap) !default;
   }
   }
 
+
+  .bp-button.search-button{
+    font-size: 1.2em !important;
+    padding: .8em 1.5em !important;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+
+  .bp-hero-body {
+    background: none;
+
+    .has-text-white{
+      color: #12115A !important;
+
+      .display{
+        line-height: 3.25rem !important;
+        .is-hidden-touch{
+          line-height: 5.25rem !important;
+        }
+      }
+
+
+    }
+  }
