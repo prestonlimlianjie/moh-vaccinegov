@@ -1,7 +1,7 @@
 contact_us: /contact-us/
-show_reach: true
+show_reach: false
 feedback: null
-faq: /faq/
+faq: null
 social_media:
   facebook: ''
   twitter: ''

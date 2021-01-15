@@ -1,13 +1,13 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Vaccine.gov.sg
+description: Preregister for Vaccination in Singapore
 image: /images/isomer-logo.svg
 permalink: /
 notification: ''
 sections:
   - hero:
-      title: COVID-19
+      title: COVID-19 Vaccination Registration
       background: /images/IsomerLandingPhoto.png
       button: Pre-register Now
       url: 'https://preregister.vaccine.gov.sg/'
@@ -21,7 +21,7 @@ sections:
         - title: FAQ
           description: Frequently Asked Questions
           url: /faq/
-      subtitle: Vaccination Registration
+      subtitle: 
   - infobar:
       title: Infobar title
       subtitle: Subtitle

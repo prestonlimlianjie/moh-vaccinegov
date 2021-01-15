@@ -1,14 +1,10 @@
 logo: /images/MOH_Hires.png
 links:
-  - title: Information
-    url: /Information/
-  - title: What do I need to know
-    collection: What do I need to know
+  - title: Health Advisory
+    url: /Health Advisory/
   - title: News
-    resource_room: true
+    resource_room: false
   - title: Faq
     url: /faq/
-  - title: Faq 2
-    url: /frequently-asked-questions/
   - title: Contact Us
     url: /contact-us/
