@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Ministry of Health COVID-19 Vaccination Registration
+title: MOH COVID-19 Vaccination Registration
 description: Preregister for Vaccination in Singapore
 image: /images/isomer-logo.svg
 permalink: /
