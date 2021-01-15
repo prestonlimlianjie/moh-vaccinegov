@@ -1,5 +1,5 @@
 ---
 title: Health Advisory
-permalink: /health-advisory
+permalink: /health-advisory/
 ---
 sdasdad health

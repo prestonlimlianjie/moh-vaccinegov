@@ -1,9 +1,7 @@
 logo: /images/MOH_Hires.png
 links:
   - title: Health Advisory
-    url: /Health Advisory/
-  - title: News
-    resource_room: false
+    url: /health-advisory/
   - title: Faq
     url: /faq/
   - title: Contact Us
