@@ -1,10 +1,10 @@
 contact_us: /contact-us/
 show_reach: false
-feedback: null
-faq: null
+feedback: ''
+faq: ''
 social_media:
-  facebook:
-  twitter:
-  youtube:
-  instagram:
-  linkedin:
+  facebook: null
+  twitter: null
+  youtube: null
+  instagram: null
+  linkedin: null
