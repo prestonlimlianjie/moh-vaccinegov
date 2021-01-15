@@ -23,15 +23,9 @@ sections:
           url: /faq/
       subtitle: 
   - infobar:
-      title: How to sign up? 
+      title: Appointment slots are now open for 70 years old and above. 
       subtitle: 
       description: 
-      button: Button text
-      url: /faq/
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
       button: Pre-register Now
-      alt: Image alt text
+      url: /pre-register-now/
 ---
