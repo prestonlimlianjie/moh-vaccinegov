@@ -1,11 +1,11 @@
 logo: /images/MOH_Hires.png
 links:
-  - title: Pre-register Now
-    url: /pre-register-now/
+  - title: How to sign up
+    url: /how-to-sign-up/
   - title: Health Advisory
     url: /health-advisory/
-  - title: More info
-    url: 'https://www.moh.gov.sg/covid-19/vaccination'
+  - title: More Info
+    url: "https://www.moh.gov.sg/covid-19/vaccination"
   - title: Faq
     url: /faq/
   - title: Contact Us

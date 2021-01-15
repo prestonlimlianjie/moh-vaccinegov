@@ -1,6 +1,6 @@
 ---
-title: Pre-register Now
-permalink: /pre-register-now/
+title: How to Sign Up
+permalink: /how-to-sign-up/
 ---
 
 COVID-19 vaccination is free for all Singaporeans and long-term residents in Singapore.
