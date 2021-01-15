@@ -19,7 +19,7 @@ sections:
           description: Things to note
           url: /health-advisory/
         - title: FAQ
-          description: Frequently Asked Questions
+          description: Frequently asked questions
           url: /faq/
   - infobar:
       title: Appointment slots are now open for 70 years old and above.
