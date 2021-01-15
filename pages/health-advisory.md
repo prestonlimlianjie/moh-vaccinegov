@@ -8,7 +8,7 @@ permalink: /health-advisory/
 <br/>
 <br/>
 
-**Its not safe for those who are**
+**It's not safe for those who are**
 * Pregnant
 * Below 16 years of age
 * Suffering from a severely compromised immune system
