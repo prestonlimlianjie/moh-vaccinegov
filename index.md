@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Book appointment
           description: Already receive the code?
-          url: 'https://book.vaccine.gov.sg'
+          url: 'https://appointment.vaccine.gov.sg'
         - title: Health Advisory
           description: What should I take note of?
           url: /health-advisory/

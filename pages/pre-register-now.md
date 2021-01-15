@@ -12,4 +12,4 @@ Phase 3 - the third phase covers the rest of the population
 
 Appointment slots are now open for 70 years old and above. Applicants that falls within this target group will receive a booking code shortly after pre-registration. For all other profiles, if you pre-register, we will notify you when slots are available for you to book. Thank you for your patience.
 
-<button class="bp-button is-secondary is-uppercase search-button" href="https://preregister.vaccine.gov.sg" target="_blank">Pre-register Now</button>
+<a href="https://preregister.vaccine.gov.sg/" class="bp-button is-secondary is-uppercase search-button" target="_blank">Pre-register Now</a>
