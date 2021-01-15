@@ -3,8 +3,8 @@ show_reach: false
 feedback: null
 faq: null
 social_media:
-  facebook: ''
-  twitter: ''
-  youtube: ''
-  instagram: ''
-  linkedin: ''
+  facebook:
+  twitter:
+  youtube:
+  instagram:
+  linkedin:
