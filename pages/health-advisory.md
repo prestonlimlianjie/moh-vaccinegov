@@ -20,3 +20,5 @@ permalink: /health-advisory/
 * Having a fever or COVID-19 symptoms
 * Infected with a contagious disease in the past 1 month
 * Experiencing bleeding problems or taking blood thinning medication
+
+For more information, please refer to the [FAQ](\faq)
