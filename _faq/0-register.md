@@ -5,7 +5,7 @@ permalink: faq/
 
 <div class="accordion">
 			<div class="tabs">
-				<h3>Appointment Booking</h3>
+				<h3>Eligibility</h3>
 				<div class="tab">
 					<input type="checkbox" id="question-01">
 					<label class="tab-label" for="question-01">This is the question? This is the question? This is the question? This is the question? This is the question? This is the question? </label>
@@ -29,7 +29,7 @@ permalink: faq/
 				</div>
 			</div>
 			<div class="tabs">
-				<h3>Appointment Booking</h3>
+				<h3>About the Vaccine</h3>
 				<div class="tab">
 					<input type="checkbox" id="question-01">
 					<label class="tab-label" for="question-01">This is the question? This is the question? This is the question? This is the question? This is the question? This is the question? </label>

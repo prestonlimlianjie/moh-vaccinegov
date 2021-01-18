@@ -1,7 +1,7 @@
 contact_us: /contact-us/
 show_reach: false
-feedback: ''
-faq: ''
+feedback: "mailto:MOH_qsm@moh.gov.sg"
+faq: /faq
 social_media:
   facebook: null
   twitter: null

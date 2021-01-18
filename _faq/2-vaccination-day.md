@@ -5,6 +5,8 @@ permalink: faq/vaccination-day
 
 On the day of Vaccination
 
+The vaccine consists of two doses. You must receive both doses to have the full vaccine protection.
+
 - Bring your IC for both appointments
 - Please turn up on time
 - If you are unwell, stay home and postpone your appointments
