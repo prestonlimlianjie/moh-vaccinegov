@@ -4,19 +4,27 @@ permalink: faq/
 ---
 <div class="accordion">
 			<div class="tabs">
-				<h3>Eligibility</h3>
+				<h3>Registration and Eligibility</h3>
 				<div class="tab">
 					<input type="checkbox" id="question-01">
-					<label class="tab-label" for="question-01">Am I eligible?</label>
+					<label class="tab-label" for="question-01">Am I eligible for the vaccine?</label>
 					<div class="tab-content">
-						<p>Vaccination slots are open for healthcare workers and elderly citizens/PRs above 70 years old. Please note that your health will be assessed on the following  <a href="https://preregister.vaccine.gov.sg">criteria</a> to ensure your safety.</p>
+						<p>Vaccination slots are currently open for healthcare workers and elderly citizens/PRs above 70 years old. Please note that your health will be assessed on the following  <a href="https://preregister.vaccine.gov.sg">criteria</a> to ensure your safety.</p>
 					</div>
 				</div>
 				<div class="tab">
 					<input type="checkbox" id="question-02">
 					<label class="tab-label" for="question-02">How can I register?</label>
 					<div class="tab-content">
-						<p>You should receive a registration link with a unique booking code by SMS when slots are open for your profile. If you've not received the SMS, or you would like to pre-register your interest (this helps us estimate and plan vaccine supply), please sign up <a href="https://preregister.vaccine.gov.sg">here</a>.</p>
+						<p>If your employer has submitted your details to MOH for pre-registration, you should receive a link to book your appointments with a unique booking code sent by SMS. If you have not received the SMS, or if you would like to independently pre-register your interest, please sign up on this <a href="https://preregister.vaccine.gov.sg">form</a>.</p>
+						</div>
+				</div>
+				<div class="tab">
+					<input type="checkbox" id="question-02">
+					<label class="tab-label" for="question-02">I don't have a mobile phone. Can I still register?</label>
+					<div class="tab-content">
+						<p>Visit the following Community Centres/ Clubs from 25 Jan onwards.
+Approach your SGA, or the SAC/SCC you attend. <a href="https://preregister.vaccine.gov.sg">form</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -26,7 +34,7 @@ permalink: faq/
 					<input type="checkbox" id="question-03">
 					<label class="tab-label" for="question-03">I have pre-registered but I did not receive any SMS. What should I do?</label>
 					<div class="tab-content">
-						<p>It may take a while for the message to be delivered. There can also be many reasons why you don't receive the SMS after you have registered. Sometimes it can be a network glitch or delay in delivery of messages. You can try registering for a new code via <a href="https://preregister.vaccine.gov.sg">this form</a> or call the MOH Emergency Line at 1800 333 999 or email <a href="mailto: MOH_qsm@moh.gov.sg">MOH_qsm@moh.gov.sg</a> for assistance.</p>
+						<p>It may take a while for the message to be delivered. If its been more than 24h since submitting your pre-registration, You can try registering for a new code on <a href="https://preregister.vaccine.gov.sg">this form</a>. For further assistance, call the MOH Emergency Line at 1800 333 999 or email <a href="mailto: MOH_qsm@moh.gov.sg">MOH_qsm@moh.gov.sg</a>
 					</div>
 				</div>
 				<div class="tab">
