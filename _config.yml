@@ -15,7 +15,9 @@ colors:
       color: '#12115A'
     - title: media-color-five
       color: '#8292A6'
-collections: {}
+collections:
+  Guide:
+    output: true
 resources_name: News
 description: COVID-19 Vaccination Registration
 permalink: none
