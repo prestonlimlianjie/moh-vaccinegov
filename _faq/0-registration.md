@@ -9,7 +9,7 @@ permalink: faq/
 					<input type="checkbox" id="question-01">
 					<label class="tab-label" for="question-01">Am I eligible?</label>
 					<div class="tab-content">
-						<p>Vaccination slots are open for healthcare workers and elderly citizens or PRs above 70. <br/><br/> Please note that your health will be assesed on the following  <a href="https://preregister.vaccine.gov.sg">criteria</a> to ensure your safety.</p>
+						<p>Vaccination slots are open for **healthcare workers** and **elderly citizens/PRs above 70**. Please note that your health will be assesed on the following  <a href="https://preregister.vaccine.gov.sg">criteria</a> to ensure your safety.</p>
 					</div>
 				</div>
 				<div class="tab">
