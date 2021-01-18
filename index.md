@@ -22,7 +22,6 @@ sections:
           description: Frequently asked questions
           url: /faq/
   - infobar:
-      title: Appointment slots are now open for 70 years old and above.
-      button: How to sign up
-      url: /how-to-sign-up/
+      title: 'Registration will be open '
+      url: ' '
 ---
