@@ -4,17 +4,17 @@ title: MOH COVID-19 Vaccination Registration
 description: Preregister for Vaccination in Singapore
 image: /images/isomer-logo.svg
 permalink: /
-notification: ''
+notification: ""
 sections:
   - hero:
       title: COVID-19 Vaccination Registration
       background: /images/IsomerLanding.png
       button: Pre-register Now
-      url: 'https://preregister.vaccine.gov.sg/'
+      url: "https://preregister.vaccine.gov.sg/"
       key_highlights:
         - title: Book appointment
           description: Already received a code?
-          url: 'https://appointment.vaccine.gov.sg'
+          url: "https://appointment.vaccine.gov.sg"
         - title: Health Advisory
           description: Things to note
           url: /health-advisory/
