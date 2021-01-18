@@ -2,6 +2,7 @@
 title: Registration
 permalink: faq/
 ---
+
 <div class="accordion">
 			<div class="tabs">
 				<h3>Registration and Eligibility</h3>
@@ -9,7 +10,7 @@ permalink: faq/
 					<input type="checkbox" id="question-01">
 					<label class="tab-label" for="question-01">Am I eligible for the vaccine?</label>
 					<div class="tab-content">
-						<p>Vaccination slots are currently open for healthcare workers and elderly citizens/PRs above 70 years old. Please note that your health will be assessed on the following  <a href="https://preregister.vaccine.gov.sg">criteria</a> to ensure your safety.</p>
+						<p>Vaccination slots are currently open for healthcare workers and elderly citizens/PRs above 70 years old. Please note that your health will be assessed on the following  <a href="/health-advisory">criteria</a> to ensure your safety.</p>
 					</div>
 				</div>
 				<div class="tab">
