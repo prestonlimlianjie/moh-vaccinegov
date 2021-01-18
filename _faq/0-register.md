@@ -46,14 +46,7 @@ permalink: faq/
 				</div>
 				<div class="tab">
 					<input type="checkbox" id="question-06">
-					<label class="tab-label" for="question-06">I would like to change/reschedule my appointments</label>
-					<div class="tab-content">
-							<p>Please call the MOH Emergency Line at 1800 333 999 or email <a href="mailto: MOH_qsm@moh.gov.sg">MOH_qsm@moh.gov.sg</a></p>
-					</div>
-				</div>
-				<div class="tab">
-					<input type="checkbox" id="question-07">
-					<label class="tab-label" for="question-07">How to tell if a SMS about the vaccination is a scam SMS?</label>
+					<label class="tab-label" for="question-06">How to tell if a SMS about the vaccination is a scam SMS?</label>
 					<div class="tab-content">
 						<p>The Covid-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment to register for appointments. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>.gov.sg</strong> domain.	Do not trust any other URLs that does not come from a <strong>.gov.sg</strong> domain. When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.
 						</p>
