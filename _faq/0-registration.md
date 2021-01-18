@@ -2,7 +2,6 @@
 title: Registration
 permalink: faq/
 ---
-
 <div class="accordion">
 			<div class="tabs">
 				<h3>Eligibility</h3>
@@ -10,14 +9,14 @@ permalink: faq/
 					<input type="checkbox" id="question-01">
 					<label class="tab-label" for="question-01">Am I eligible?</label>
 					<div class="tab-content">
-						<p>Some answer</p>
+						<p>Vaccination slots are open for healthcare workers and elderly citizens or PRs above 70.</p>
 					</div>
 				</div>
 				<div class="tab">
 					<input type="checkbox" id="question-02">
 					<label class="tab-label" for="question-02">How can I register?</label>
 					<div class="tab-content">
-						<p>Please go to <a href="https://preregister.vaccine.gov.sg">this form</a> to pre-register.</p>
+						<p>You should receive a registration link with a unique booking code by SMS when slots are open for your profile. If you've not received the SMS, or you would like to pre-register your interest (this helps us estimate and plan vaccine supply), please sign up <a href="https://preregister.vaccine.gov.sg">here</a>.</p>
 					</div>
 				</div>
 			</div>
