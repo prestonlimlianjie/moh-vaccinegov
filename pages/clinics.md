@@ -3,11 +3,13 @@ title: List of Clinics
 permalink: /clinic-list
 ---
 
+This is the list of clinics that are
+
 <table>
   <thead>
     <tr>
-      <th>name</th>
-      <th>address</th>
+      <th>Clinic Name</th>
+      <th>Clinic Address</th>
     </tr>
   </thead>
   <tbody>

@@ -42,7 +42,7 @@ permalink: faq/
     				<input type="checkbox" id="question-04">
     				<label class="tab-label" for="question-04">I lost my SMS/booking code. How can I retrieve the link?</label>
     				<div class="tab-content">
-    					<p>Please call MOH at 1800 333 9999 or email MOH_qsm@moh.gov.sg for assistance.</p>
+    					<p>Please call MOH at 1800 333 9999 or email  <a href="mailto: MOH_qsm@moh.gov.sg">MOH_qsm@moh.gov.sg</a> for assistance.</p>
     				</div>
     			</div>
 					<!-- end of each question -->
