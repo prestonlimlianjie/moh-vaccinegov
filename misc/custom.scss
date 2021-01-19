@@ -343,6 +343,19 @@ $desktop: 960px + (2 * $gap) !default;
     // border-bottom: 1px solid #ddd;
     // transition: all .1s;
     margin-top: 0;
+
+    table{
+
+      tr{
+        th{
+          border-width: 1px;
+        }
+        td{
+          border-width: 1px;
+          border-bottom-width: 1px !important;
+        }
+      }
+    }
   }
   .tab-close {
     display: flex;
@@ -368,6 +381,8 @@ $desktop: 960px + (2 * $gap) !default;
     ~ .tab-content {
       max-height: 600vh;
       padding: 1em;
+      padding-left: 3em;
+      padding-right: 4em;
       padding-bottom: 3em;
       color: #2D3642;
       // padding: 1em;

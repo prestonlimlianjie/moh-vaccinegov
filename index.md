@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: MOH COVID-19 Vaccination Registration
-description: Preregister for Vaccination in Singapore
+description: MOH COVID-19 Vaccination in Singapore
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -22,6 +22,7 @@ sections:
           description: Frequently asked questions
           url: /faq/
   - infobar:
-      title: "Not open for public registration yet. More details coming soon."
-      url: " "
+      title: "Appointment slots are now open for healthcare and frontline workers."
+      description: "Appointment slots are not open for public registration. More details coming soon."
+      url: ""
 ---
