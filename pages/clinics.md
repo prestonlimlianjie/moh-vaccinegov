@@ -3,7 +3,7 @@ title: List of Clinics
 permalink: /clinic-list
 ---
 
-This is the list of clinics that are
+This is the list of clinics that are administering the Covid-19 Vaccines.
 
 <table>
   <thead>
