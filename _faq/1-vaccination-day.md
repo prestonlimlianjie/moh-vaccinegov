@@ -20,13 +20,15 @@ permalink: faq/vaccination-day
 					<input type="checkbox" id="question-02">
 					<label class="tab-label" for="question-02">What should I take note of?</label>
 					<div class="tab-content">
-						<p>On the day of vaccination -  </p>
-						<ul>
-							<li>Bring your IC for both appointments</li>
-							<li>Please turn up on time</li>
-							<li>Please wear short sleeved attire, or sleeves loose enough to be rolled up</li>
-							<li>If you are unwell, stay home and postpone your appointments</li>
-						</ul>
+						<div>
+							<p>On the day of vaccination - </p>
+							<ul>
+								<li>Bring your IC for both appointments</li>
+								<li>Please turn up on time</li>
+								<li>Please wear short sleeved attire, or sleeves loose enough to be rolled up</li>
+								<li>If you are unwell, stay home and postpone your appointments</li>
+							</ul>
+						</div>
 					</div>
 				</div>
 				<!-- end of each question -->
