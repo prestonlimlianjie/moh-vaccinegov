@@ -1,4 +1,0 @@
----
-title: Faq
-permalink: /faq
----

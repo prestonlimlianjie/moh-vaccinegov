@@ -1,19 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/MOH_Hires.png
 links:
+  - title: Health Advisory
+    url: /health-advisory/
+  - title: Clinics
+    url: /clinic-list/
+  - title: FAQ
+    collection: faq
   - title: Contact Us
     url: /contact-us/
-  - title: Faq
-    url: /faq/
-  - title: Information
-    url: /Information/
-  - title: Collection
-    collection: collection
-  - title: News
-    resource_room: true
