@@ -42,7 +42,7 @@ Approach your SGA, or the SAC/SCC you attend. <a href="https://preregister.vacci
 					<input type="checkbox" id="question-04">
 					<label class="tab-label" for="question-04">I lost my sms/booking code. How can I retrieve it again?</label>
 					<div class="tab-content">
-						<p>Please call the MOH Emergency Line at 1800 333 999 or email <a href="mailto: MOH_qsm@moh.gov.sg">MOH_qsm@moh.gov.sg</a></p>
+						<p>Please call the MOH Emergency Line at 1800 333 9999 or email <a href="mailto: MOH_qsm@moh.gov.sg">MOH_qsm@moh.gov.sg</a></p>
 					</div>
 				</div>
 				<div class="tab">
