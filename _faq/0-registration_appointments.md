@@ -73,6 +73,15 @@ permalink: faq/
     				</div>
     			</div>
 					<!-- end of each question -->
+					<!-- start of each question -->
+    			<div class="tab">
+    				<input type="checkbox" id="question-08">
+    				<label class="tab-label" for="question-08">What happens if I am ineligible for the vaccination but still want to get the vaccination? </label>
+    				<div class="tab-content">
+    					<p>Based on your responses to the eligibility check, you may not be suitable for the COVID-19 vaccination at this point. Please consult your doctor to assess your suitability. If you have been issued a doctor’s memo confirming you are suitable, you may walk in to a vaccination centre or polyclinic to receive your vaccination. Please bring along your doctor’s memo to any of the <a href="/clinic-list">locations listed</a> on vaccine.gov.sg.</p>
+    				</div>
+    			</div>
+					<!-- end of each question -->
     		</div>
 
 </div>
