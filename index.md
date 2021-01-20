@@ -23,6 +23,6 @@ sections:
           url: /faq/
   - infobar:
       title: "Appointment slots are now open for healthcare and frontline workers."
-      description: "Appointment slots are not open for public registration. More details coming soon."
+      description: "Appointment slots are not open for public registration. More details will be coming soon."
       url: ""
 ---
