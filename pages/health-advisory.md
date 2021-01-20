@@ -2,23 +2,22 @@
 title: Health Advisory
 permalink: /health-advisory/
 ---
-**The vaccine has two doses**
-* Choose a clinic and two time slots, 21 to 24 days apart
-* Wait 7 days between taking the COVID vaccine and any other vaccines
+**Full COVID-19 vaccination consists of two doses**
+* Choose a clinic and two time slots, 21 to 28 days apart
+* Schedule other vaccines at least 2 weeks apart
 <br/>
 <br/>
 
-**It's not safe for those who are**
-* Pregnant
-* Below 16 years of age
-* Suffering from a severely compromised immune system
-* Prone to very severe allergic reactions
+**COVID-19 vaccine is currently not recommended for**
+* Pregnant women
+* Children below 16 years of age
+* Persons with a severely compromised immune system
+* Persons with a history of severe allergic reactions
 <br/>
 <br/>
 
-**Postpone your registration if you have**
-* A fever or COVID-19 symptoms
-* Been infected with a contagious disease in the past 1 month
-* Bleeding problems or been taking blood thinning medication
+**Postpone vaccination if you are unwell or have fever in the last 24 hours.**
+
+**If you are being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor.** 
 
 For more information, please refer to the [FAQ](\faq)
