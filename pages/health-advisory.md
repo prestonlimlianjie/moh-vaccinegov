@@ -16,9 +16,9 @@ permalink: /health-advisory/
 <br/>
 <br/>
 
-**Postpone your registration if**
-* Having a fever or COVID-19 symptoms
-* Infected with a contagious disease in the past 1 month
-* Experiencing bleeding problems or taking blood thinning medication
+**Postpone your registration if you have**
+* A fever or COVID-19 symptoms
+* Been infected with a contagious disease in the past 1 month
+* Bleeding problems or been taking blood thinning medication
 
 For more information, please refer to the [FAQ](\faq)
