@@ -7,5 +7,4 @@ contacts:
   - title: MOH Emergency Line For COVID-19 Vaccination Enquires
     content:
       - phone: 1800 333 9999
-      - email: MOH_qsm@moh.gov.sg
 ---
