@@ -1,10 +1,12 @@
 logo: /images/MOH_Hires.png
 links:
+  - title: How to Sign Up
+    url: /how-to-sign-up/
   - title: Health Advisory
     url: /health-advisory/
   - title: Clinics
     url: /clinic-list/
   - title: FAQ
-    collection: faq
+    url: /faq-en/
   - title: Contact Us
     url: /contact-us/
