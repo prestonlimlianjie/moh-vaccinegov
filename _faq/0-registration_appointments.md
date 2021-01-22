@@ -2,7 +2,6 @@
 title: Registration and Appointments
 permalink: faq/
 ---
-
 <div class="accordion">
 			<div class="tabs">
 					<!-- start of each question -->
@@ -33,7 +32,7 @@ permalink: faq/
 						<input type="checkbox" id="question-03">
 						<label class="tab-label" for="question-03">How can I register?</label>
 						<div class="tab-content">
-							<p>If your employer has submitted your details to MOH for pre-registration, you will receive a link to book your appointments with a unique booking code sent by SMS.</p>
+							<p>For healthcare and frontline workers: <br>If your employer has submitted your details to MOH for pre-registration, you will receive a link to book your appointments with a unique booking code sent by SMS.<br><br> For seniors between 70 to 80 years old: <br> Vaccinations are being progressively rolled out. If you have received a letter informing you of your eligibility, you can pre-register [here](Preregister.vaccine.gov.sg)</p>
 							</div>
 					</div>
 					<!-- end of each question -->
