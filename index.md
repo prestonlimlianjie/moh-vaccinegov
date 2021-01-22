@@ -15,9 +15,9 @@ sections:
         - title: Book appointment
           description: Already received a code?
           url: "https://appointment.vaccine.gov.sg"
-        - title: FAQ
-          description: Frequently asked questions
-          url: /faq-en/
+        - title: Health Advisory
+          description: Important things to note
+          url: /information/health-advisory
         - title: Find out more
           description: Singapore's COVID-19 Vaccination Programme
           url: "https://www.moh.gov.sg/covid-19/vaccination"

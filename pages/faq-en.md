@@ -24,7 +24,7 @@ permalink: /faq-en
 								At the moment, only healthcare and frontline workers nominated by their employers are eligible for vaccination. Concurrently as part of a pilot launch, appointment slots are being progressively rolled out to seniors between 70 to 80 years old. Selected seniors will be notified by mail. Individuals in other priority groups will be notified when it is their turn.
 							</p>
 							<p>
-								Please note that your health will be assessed on the following <a href="/health-advisory">criteria</a> to ensure your safety.
+								Please note that your health will be assessed on the following <a href="/information/health-advisory">criteria</a> to ensure your safety.
 							</p>
 							</div>
 					</div>
@@ -34,7 +34,7 @@ permalink: /faq-en
 						<input type="checkbox" id="question-1-3">
 						<label class="tab-label" for="question-1-3">How can I register?</label>
 						<div class="tab-content">
-							<p>For healthcare and frontline workers: <br>If your employer has submitted your details to MOH for pre-registration, you will receive a link to book your appointments with a unique booking code sent by SMS.<br><br> For seniors between 70 to 80 years old: <br> Vaccinations are being progressively rolled out. If you have received a letter informing you of your eligibility, you can pre-register <a href="preregister.vaccine.gov.sg">here</a>.</p>
+							<p>For healthcare and frontline workers: <br>If your employer has submitted your details to MOH for pre-registration, you will receive a link to book your appointments with a unique booking code sent by SMS.<br><br> For seniors between 70 to 80 years old: <br> Vaccinations are being progressively rolled out. If you have received a letter informing you of your eligibility, you can pre-register <a href="https://preregister.vaccine.gov.sg">here</a>.</p>
 							</div>
 					</div>
 					<!-- end of each question -->
@@ -79,7 +79,7 @@ permalink: /faq-en
     				<input type="checkbox" id="question-1-8">
     				<label class="tab-label" for="question-1-8">What happens if I am ineligible for the vaccination but still want to get the vaccination? </label>
     				<div class="tab-content">
-    					<p>Based on your responses to the eligibility check, you may not be suitable for the COVID-19 vaccination at this point. Please consult your doctor to assess your suitability. If you have been issued a doctor’s memo confirming you are suitable and are part of the priority group eligible for vaccination, you may walk in to a vaccination centre or polyclinic to receive your vaccination. Please bring along your doctor’s memo to any of the <a href="/clinic-list">locations listed</a> on vaccine.gov.sg.</p>
+    					<p>Based on your responses to the eligibility check, you may not be suitable for the COVID-19 vaccination at this point. Please consult your doctor to assess your suitability. If you have been issued a doctor’s memo confirming you are suitable and are part of the priority group eligible for vaccination, you may walk in to a vaccination centre or polyclinic to receive your vaccination. Please bring along your doctor’s memo to any of the <a href="/information/clinic-list">locations listed</a> on vaccine.gov.sg.</p>
     				</div>
     			</div>
 					<!-- end of each question -->
