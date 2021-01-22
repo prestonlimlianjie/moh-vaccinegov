@@ -1,6 +1,6 @@
 ---
 title: List of Clinics
-permalink: /clinic-list
+permalink: information/clinic-list
 ---
 
 This is the list of clinics that are administering the Covid-19 Vaccines.

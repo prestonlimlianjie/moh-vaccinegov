@@ -17,7 +17,7 @@ sections:
           url: "https://appointment.vaccine.gov.sg"
         - title: FAQ
           description: Frequently asked questions
-          url: /faq/
+          url: /faq-en/
         - title: Find out more
           description: Singapore's COVID-19 Vaccination Programme
           url: "https://www.moh.gov.sg/covid-19/vaccination"
