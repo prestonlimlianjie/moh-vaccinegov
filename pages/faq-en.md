@@ -22,9 +22,10 @@ permalink: /faq-en
 						<div class="tab-content">
 							<p>
 								At the moment, only healthcare and frontline workers nominated by their employers are eligible for vaccination. Concurrently as part of a pilot launch, appointment slots are being progressively rolled out to seniors between 70 to 80 years old. Selected seniors will be notified by mail. Individuals in other priority groups will be notified when it is their turn.
+								Please <a href="https://preregister.vaccine.gov.sg" target="_blank">pre-register here</a>to indicate your interest and we will notify you when you can make appointments online.
 							</p>
 							<p>
-								Please note that your health will be assessed on the following <a href="/information/health-advisory">criteria</a> to ensure your safety.
+								Please note that your health will be assessed on the following <a href="/information/health-advisory" >criteria</a> to ensure your safety.
 							</p>
 							</div>
 					</div>
@@ -34,7 +35,7 @@ permalink: /faq-en
 						<input type="checkbox" id="question-1-3">
 						<label class="tab-label" for="question-1-3">How can I register?</label>
 						<div class="tab-content">
-							<p>For healthcare and frontline workers: <br>If your employer has submitted your details to MOH for pre-registration, you will receive a link to book your appointments with a unique booking code sent by SMS.<br><br> For seniors between 70 to 80 years old: <br> Vaccinations are being progressively rolled out. If you have received a letter informing you of your eligibility, you can pre-register <a href="https://preregister.vaccine.gov.sg">here</a>.</p>
+							<p>For healthcare and frontline workers: <br>If your employer has submitted your details to MOH for pre-registration, you will receive a link to book your appointments with a unique booking code sent by SMS.<br><br> For seniors between 70 to 80 years old: <br> Vaccinations are being progressively rolled out. If you have received a letter informing you of your eligibility, you can  <a href="https://preregister.vaccine.gov.sg" target="_blank"> pre-register here</a>.</p>
 							</div>
 					</div>
 					<!-- end of each question -->
