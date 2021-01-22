@@ -19,7 +19,7 @@ permalink: faq/
 						<label class="tab-label" for="question-02">Who is eligible for the vaccine?</label>
 						<div class="tab-content">
 							<p>
-								At the moment, only healthcare and frontline workers nominated by their employers are eligible for vaccination. We will progressively notify individuals in other priority groups when it is their turn.
+								At the moment, only healthcare and frontline workers nominated by their employers are eligible for vaccination. Concurrently as part of a pilot launch, appointment slots are being progressively rolled out to seniors between 70 to 80 years old. Selected seniors will be notified by mail. Individuals in other priority groups will be notified when it is their turn.
 							</p>
 							<p>
 								Please note that your health will be assessed on the following <a href="/health-advisory">criteria</a> to ensure your safety.
@@ -32,7 +32,7 @@ permalink: faq/
 						<input type="checkbox" id="question-03">
 						<label class="tab-label" for="question-03">How can I register?</label>
 						<div class="tab-content">
-							<p>For healthcare and frontline workers: <br>If your employer has submitted your details to MOH for pre-registration, you will receive a link to book your appointments with a unique booking code sent by SMS.<br><br> For seniors between 70 to 80 years old: <br> Vaccinations are being progressively rolled out. If you have received a letter informing you of your eligibility, you can pre-register [here](Preregister.vaccine.gov.sg)</p>
+							<p>For healthcare and frontline workers: <br>If your employer has submitted your details to MOH for pre-registration, you will receive a link to book your appointments with a unique booking code sent by SMS.<br><br> For seniors between 70 to 80 years old: <br> Vaccinations are being progressively rolled out. If you have received a letter informing you of your eligibility, you can pre-register <a href="preregister.vaccine.gov.sg">here</a>.</p>
 							</div>
 					</div>
 					<!-- end of each question -->
@@ -41,7 +41,7 @@ permalink: faq/
     				<input type="checkbox" id="question-04">
     				<label class="tab-label" for="question-04">I lost my SMS/booking code. How can I retrieve the link?</label>
     				<div class="tab-content">
-    					<p>Please call MOH at 1800 333 9999 or email  <a href="mailto: MOH_qsm@moh.gov.sg">MOH_qsm@moh.gov.sg</a> for assistance.</p>
+    					<p>Please call MOH at 1800 333 9999 for assistance.</p>
     				</div>
     			</div>
 					<!-- end of each question -->
@@ -50,7 +50,7 @@ permalink: faq/
     				<input type="checkbox" id="question-05">
     				<label class="tab-label" for="question-05">Can I change my contact information? </label>
     				<div class="tab-content">
-    					<p>If you have changed your mobile number or email address, please call MOH at 1800 333 9999 or email <a href="mailto: MOH_qsm@moh.gov.sg">MOH_qsm@moh.gov.sg</a> for assistance.</p>
+    					<p>If you have changed your mobile number or email address, please call MOH at 1800 333 9999 for assistance.</p>
     				</div>
     			</div>
 					<!-- end of each question -->
@@ -59,7 +59,7 @@ permalink: faq/
     				<input type="checkbox" id="question-06">
     				<label class="tab-label" for="question-06">How do I reschedule my appointments? </label>
     				<div class="tab-content">
-    					<p>If you have not taken your 1st dose, cancel and rebook both appointments using the same booking link issued by SMS. If you have taken your 1st dose and wish to reschedule your 2nd dose, please call MOH at 1800 333 9999 or email <a href="mailto: MOH_qsm@moh.gov.sg">MOH_qsm@moh.gov.sg</a> for assistance.</p>
+    					<p>If you have not taken your 1st dose, cancel and rebook both appointments using the same booking link issued by SMS. If you have taken your 1st dose and wish to reschedule your 2nd dose, please call MOH at 1800 333 9999 for assistance.</p>
     				</div>
     			</div>
 					<!-- end of each question -->
