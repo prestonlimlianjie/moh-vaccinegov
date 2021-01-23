@@ -12,11 +12,11 @@ sections:
       button: Pre-register
       url: "https://preregister.vaccine.gov.sg"
       key_highlights:
-        - title: Book appointment
-          description: Already received a code?
-          url: "https://appointment.vaccine.gov.sg"
-        - title: Health Advisory
-          description: Important things to note
+        - title: "Pre-register"
+          description: 预先登记/ Pra-Pendaftaran/ முன் பதிவு செய்தல்
+          url: "https://preregister.vaccine.gov.sg"
+        - title: "Health Advisory"
+          description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
           url: /information/health-advisory
         - title: Find out more
           description: Singapore's COVID-19 Vaccination Programme
