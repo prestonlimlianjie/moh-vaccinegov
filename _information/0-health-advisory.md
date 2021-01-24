@@ -23,4 +23,4 @@ permalink: information/health-advisory/
 
 **If you are being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor.**
 
-For more information, please refer to the [FAQ](/faq-en)
+For more information, please refer to the [FAQ](/faq)

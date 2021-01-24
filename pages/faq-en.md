@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /faq-en
+permalink: /faq
 ---
 
 <div class="accordion">
