@@ -421,12 +421,32 @@ $desktop: 960px + (2 * $gap) !default;
       color: #12115A !important;
 
       .display{
+        // font-size: 4em !important;;
         line-height: 3.25rem !important;
         .is-hidden-touch{
-          line-height: 5.25rem !important;
+          line-height: 4.25rem !important;
         }
       }
 
 
     }
   }
+
+  @media screen and (max-width: 768px){
+    .is-hidden-mobile {
+      display: block !important;
+    }
+  }
+
+
+
+.navbar-start .navbar-item + .has-dropdown {
+  margin: 1rem;
+  margin-top: 1.2rem;
+}
+
+@media screen and (min-width: 1024px) {
+  .display {
+    font-size: 4.5rem;
+  }
+}
