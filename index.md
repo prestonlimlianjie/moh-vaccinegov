@@ -24,5 +24,5 @@ sections:
           url: "https://www.moh.gov.sg/covid-19/vaccination"
   - infobar:
       title: Appointment slots are now open for healthcare, frontline workers and selected seniors.
-      description: As part of a pilot launch, appointment slots are being progressively rolled out to seniors between 70 and 80 years old. Selected seniors will be notified by mail. Vaccinations slots are not open to the public currently. Please preregister your interest and we will notify you when you can make appointments online.
+      description: As part of a pilot launch, appointment slots are being progressively offered to seniors between 70 and 80 years old. Seniors will be notified by mail. Appointment slots are not open to the public currently. Please register your interest and we will notify you when you can make your appointments online.
 ---
