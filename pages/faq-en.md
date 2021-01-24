@@ -139,6 +139,7 @@ permalink: /faq
 <div class="tabs">
 				<!-- start of each question -->
 				<h3>Health and Safety</h3>
+				<p>For more information, visit <a href="https://www.moh.gov.sg/covid-19/vaccination" target="_blank">MOH's website</a>.</p>
 				<div class="tab">
 					<input type="checkbox" id="question-3-1">
 					<label class="tab-label" for="question-3-1">Which vaccine is Singapore using?
