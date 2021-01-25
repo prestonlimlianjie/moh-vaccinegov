@@ -432,6 +432,7 @@ $desktop: 960px + (2 * $gap) !default;
     }
   }
 
+
   @media screen and (max-width: 768px){
     .bp-hero{
       .bp-hero-body{
@@ -450,9 +451,12 @@ $desktop: 960px + (2 * $gap) !default;
 
 
 
-.navbar-start .navbar-item + .has-dropdown {
-  margin: 1rem;
-  margin-top: 1.2rem;
+
+@media screen and (max-width: 1280px) {
+    .navbar-start .navbar-item + .has-dropdown {
+        margin: 1rem;
+        margin-top: 1.2rem;
+       }
 }
 
 @media screen and (min-width: 1024px) {
