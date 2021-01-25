@@ -22,7 +22,24 @@ sections:
         - title: Find out more
           description: Singapore's COVID-19 Vaccination Programme
           url: "https://www.moh.gov.sg/covid-19/vaccination"
+  - infopic:
+      title: Pre-register Now
+      description: Appointment slots are now open for healthcare, frontline workers and selected seniors. Although slots are not open to the public currently, you can preregister your interest and we will notify you when you can make appointments online.
+      image: /images/vaccinate.png
+      button: How to sign up
+      url: /how-to-sign-up
+      alt: How to Sign Up
+  - infopic:
+      title: Health Advisory
+      description: Check the latest health advisory to see if you are suitable for the vaccination
+      button: Learn More
+      url: /information/health-advisory/
+      image: /images/announce.png
+      alt: Health Advisory
   - infobar:
-      title: Appointment slots are now open for healthcare, frontline workers and selected seniors.
-      description: As part of a pilot launch, appointment slots are being progressively offered to seniors between 70 and 80 years old. Seniors will be notified by mail. Appointment slots are not open to the public currently. Please register your interest and we will notify you when you can make your appointments online.
+      title: Have more questions?
+      description: Read MOH's Information page or check out the Frequently Asked Questions.
+      button: Read FAQ
+      url: /faq
+      alt: Read FAQ
 ---
