@@ -433,8 +433,18 @@ $desktop: 960px + (2 * $gap) !default;
   }
 
   @media screen and (max-width: 768px){
-    .is-hidden-mobile {
-      display: block !important;
+    .bp-hero{
+      .bp-hero-body{
+        .bp-container{
+          .row{
+            .col{
+                .is-hidden-mobile {
+                  display: block !important;
+                }
+            }
+          }
+        }
+      }
     }
   }
 
