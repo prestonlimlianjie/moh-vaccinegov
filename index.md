@@ -23,10 +23,10 @@ sections:
           description: Singapore's COVID-19 Vaccination Programme
           url: "https://www.moh.gov.sg/covid-19/vaccination"
   - infopic:
-      title: Pre-register Now
+      title: How to Sign Up
       description: Appointment slots are now open for healthcare, frontline workers and selected seniors. Although slots are not open to the public currently, you can preregister your interest and we will notify you when you can make appointments online.
       image: /images/vaccinate.png
-      button: How to sign up
+      button: More Information
       url: /how-to-sign-up
       alt: How to Sign Up
   - infopic:
