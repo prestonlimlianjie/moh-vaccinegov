@@ -10,11 +10,11 @@ sections:
       title: COVID-19 Vaccination Registration
       subtitle: 登记接种2019冠病疫苗/ Pendaftaran bagi Vaksinasi COVID-19/ கொவிட்-19 தடுப்பூசிக்கான பதிவு
       background: /images/vaccinegov-hero.png
-      button: Pre-register
+      button: Register Your Interest
       url: "https://preregister.vaccine.gov.sg"
       key_highlights:
-        - title: "Pre-register"
-          description: 预先登记/ Pra-Pendaftaran/ முன் பதிவு செய்தல்
+        - title: "Register Your Interest"
+          description: 预先登记/ Pendaftaran/ பதிவு செய்தல்
           url: "https://preregister.vaccine.gov.sg"
         - title: "Health Advisory"
           description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
