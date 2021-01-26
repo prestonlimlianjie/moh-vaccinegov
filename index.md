@@ -50,8 +50,4 @@ sections:
       button: Read FAQ
       url: /faq
       alt: Read FAQ
-  - resources:
-      title: 'Latest News from MOH '
-      subtitle: News
-      button: More
 ---
