@@ -2,7 +2,6 @@
 title: List of Clinics
 permalink: information/clinic-list
 ---
-
 This is the list of clinics that are administering the Covid-19 Vaccines.
 
 <table>
@@ -33,14 +32,18 @@ This is the list of clinics that are administering the Covid-19 Vaccines.
       <td>Ang Mo Kio Polyclinic</td>
       <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
     </tr>
+			<! --start of row -->
     <tr>
       <td>Queenstown Polyclinic</td>
       <td>580 Stirling Road, Singapore 148958</td>
     </tr>
+			<! --end of row -->
+		<! --start of row -->
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
     </tr>
+		<! --end of row -->
     <tr>
       <td>Pioneer Polyclinic</td>
       <td>26 Jurong West Street 61, Singapore 648201</td>
