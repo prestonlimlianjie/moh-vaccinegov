@@ -28,8 +28,7 @@ sections:
       title: How to Sign Up
       description: >-
         Appointment slots are now open for healthcare, frontline workers and
-        selected seniors. Although slots are not open to the public currently,
-        you can preregister your interest and we will notify you when you can
+        seniors from 70 years old and above. Although slots are not open to the public currently, you can register your interest and we will notify you when you can
         make appointments online.
       image: /images/vaccinate.png
       button: Learn More
