@@ -188,7 +188,7 @@ permalink: /faq
 							</ul>
 							</p>
 							<p>
-    						In very rare cases,, this vaccine can cause a severe allergic reaction. Signs of a severe allergic reaction include: difficulty breathing, swelling of your face, throat, eyes or lips, a fast heartbeat, dizziness and weakness, a bad rash all over your body.  If you experience a severe allergic reaction, seek medical attention immediately. Call 995 or go to the nearest A&E immediately.
+    						In very rare cases, this vaccine can cause a severe allergic reaction. Signs of a severe allergic reaction include: difficulty breathing, swelling of your face, throat, eyes or lips, a fast heartbeat, dizziness and weakness, a bad rash all over your body.  If you experience a severe allergic reaction, seek medical attention immediately. Call 995 or go to the nearest A&E immediately.
     					</p>
     				</div>
     			</div>
