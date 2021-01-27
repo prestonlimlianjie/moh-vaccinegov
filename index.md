@@ -20,7 +20,7 @@ sections:
           url: 'https://preregister.vaccine.gov.sg'
         - title: Health Advisory
           description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
-          url: /information/health-advisory
+          url: /health-advisory
         - title: Find out more
           description: Singapore's COVID-19 Vaccination Programme
           url: 'https://www.moh.gov.sg/covid-19/vaccination'
@@ -40,7 +40,7 @@ sections:
         Check the latest health advisory to see if you are suitable for the
         vaccination
       button: Learn More
-      url: /information/health-advisory/
+      url: /health-advisory/
       image: /images/announce.png
       alt: Health Advisory
   - infobar:
