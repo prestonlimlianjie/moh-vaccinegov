@@ -18,6 +18,6 @@ permalink: /privacy/
 
 7.  Please contact our Quality Service Manager at Tel: 1800-225 4122 or e-mail (MOH_INFO@moh.gov.sg):
 
-         (a)      For any enquires or feedback on our data protection policies and procedures; or
-
-         (b)      If you require more information on or access to the data which you have earlier provided to us.
+	(a) For any enquires or feedback on our data protection policies and procedures; or
+	
+	(b) If you require more information on or access to the data which you have earlier provided to us.
