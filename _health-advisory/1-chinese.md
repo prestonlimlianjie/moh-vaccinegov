@@ -5,15 +5,24 @@ permalink: /health-advisory-zh
 
 # **健康指示**
 
-COVID-19 vaccination is free for all Singaporeans and long-term residents in Singapore.
-As vaccine supply is currently limited, vaccinations will be rolled out in phases, starting with groups who are at greater risk and need the vaccine most.
+**Full COVID-19 vaccination consists of two doses**
 
-**Phase 1** - Healthcare, frontline and essential workers <br/>
-**Phase 2** - The vulnerable and those with high-risk medical conditions <br/>
-**Phase 3** - The rest of the population
+- Choose a polyclinic or vaccination centre and two time slots, 21 to 28 days apart
+- Schedule other vaccines at least 2 weeks apart
+  <br/>
+  <br/>
 
-#### **Appointment slots are now open for healthcare, frontline workers and seniors.**
+**COVID-19 vaccine is currently not recommended for**
 
-As part of a pilot launch, appointment slots are being progressively offered to seniors from 70 years old and above. Seniors will be notified by mail. Appointment slots are not open to the public currently. Please register your interest and we will notify you when you can make your appointments online.
+- Pregnant women
+- Children below 16 years of age
+- Persons with a severely compromised immune system
+- Persons with a history of severe allergic reactions
+  <br/>
+  <br/>
 
-<a href="https://preregister.vaccine.gov.sg/" class="bp-button is-secondary is-uppercase" target="_blank">Register Now</a>
+**Postpone vaccination if you are unwell or have fever in the last 24 hours.**
+
+**If you are being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor.**
+
+For more information, please refer to the [FAQ](/faq)
