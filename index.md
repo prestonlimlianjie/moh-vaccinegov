@@ -21,9 +21,9 @@ sections:
         - title: Health Advisory
           description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
           url: /health-advisory
-        - title: Find out more
-          description: Singapore's COVID-19 Vaccination Programme
-          url: 'https://www.moh.gov.sg/covid-19/vaccination'
+        - title: Book appointment
+          description: Already have the code?
+          url: 'https://appointment.vaccine.gov.sg'
   - infopic:
       title: How to Sign Up
       description: >-
@@ -43,6 +43,14 @@ sections:
       url: /health-advisory/
       image: /images/announce.png
       alt: Health Advisory
+  - infopic:
+      title: About the Programme
+      description: >-
+        The COVID-19 vaccination programme seeks to protect Singaporeans against COVID-19, as well as to protect businesses and jobs through the progressive re-opening of Singapore.
+      button: Find Out More
+      url: https://www.moh.gov.sg/covid-19/vaccination
+      image: /images/info.png
+      alt: About Singapore's COVID-19 Vaccination Programme
   - infobar:
       title: Have more questions?
       description: Read MOH's Information page or check out the Frequently Asked Questions.
