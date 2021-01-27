@@ -18,9 +18,9 @@ colors:
 collections:
   information:
     output: true
-  health-advisory-collection:
+  health-advisory:
     output: true
-  how-to-sign-up-collection:
+  how-to-sign-up:
     output: true
 resources_name: News
 description: COVID-19 Vaccination Registration

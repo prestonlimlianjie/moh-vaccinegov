@@ -24,7 +24,7 @@ permalink: /faq
 								Please <a href="https://preregister.vaccine.gov.sg" target="_blank">register your interest</a> to indicate your interest and we will notify you when you can make appointments online.
 							</p>
 							<p>
-								Please note that your health will be assessed on the following <a href="/information/health-advisory" >criteria</a> to ensure your safety.
+								Please note that your health will be assessed on the following <a href="/health-advisory" >criteria</a> to ensure your safety.
 							</p>
 							</div>
 					</div>
