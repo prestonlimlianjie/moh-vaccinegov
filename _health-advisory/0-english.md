@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /health-advisory-new
+permalink: /health-advisory
 ---
 
 # **Health Advisory**
