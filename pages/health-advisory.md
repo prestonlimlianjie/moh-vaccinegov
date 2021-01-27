@@ -1,9 +1,7 @@
 ---
-title: English
-permalink: /health-advisory-new
+title: Health Advisory
+permalink: /health-advisory/
 ---
-
-# **Health Advisory**
 
 **Full COVID-19 vaccination consists of two doses**
 
