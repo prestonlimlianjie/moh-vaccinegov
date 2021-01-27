@@ -7,8 +7,8 @@ This is the list of polyclinics and vaccination centres that are administering t
 <table>
   <thead>
     <tr>
-      <th>Clinic Name</th>
-      <th>Clinic Address</th>
+      <th>Name</th>
+      <th>Address</th>
     </tr>
   </thead>
   <tbody>
