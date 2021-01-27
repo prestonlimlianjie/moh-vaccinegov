@@ -79,7 +79,7 @@ permalink: /faq
     				<input type="checkbox" id="question-1-8">
     				<label class="tab-label" for="question-1-8">What happens if I am ineligible for the vaccination but still want to get the vaccination? </label>
     				<div class="tab-content">
-    					<p>Based on your responses to the eligibility check, you may not be suitable for the COVID-19 vaccination at this point. Please consult your doctor to assess your suitability. If you have been issued a doctor’s memo confirming you are suitable and are part of the priority group eligible for vaccination, you may walk in to a vaccination centre or polyclinic to receive your vaccination. Please bring along your doctor’s memo to any of the <a href="/information/clinic-list">locations listed</a> on vaccine.gov.sg.</p>
+    					<p>Based on your responses to the eligibility check, you may not be suitable for the COVID-19 vaccination at this point. Please consult your doctor to assess your suitability. If you have been issued a doctor’s memo confirming you are suitable and are part of the priority group eligible for vaccination, you may walk in to a vaccination centre or polyclinic to receive your vaccination. Please bring along your doctor’s memo to any of the <a href="/clinic-list">locations listed</a> on vaccine.gov.sg.</p>
     				</div>
     			</div>
 					<!-- end of each question -->
