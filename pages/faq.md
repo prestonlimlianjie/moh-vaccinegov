@@ -2,7 +2,6 @@
 title: Frequently Asked Questions
 permalink: /faq
 ---
-
 <div class="accordion">
 			<div class="tabs">
 					<!-- start of each question -->
@@ -21,8 +20,8 @@ permalink: /faq
 						<label class="tab-label" for="question-1-2">Who is eligible for the vaccine?</label>
 						<div class="tab-content">
 							<p>
-								At the moment, only healthcare and frontline workers nominated by their employers are eligible for vaccination. Concurrently as part of a pilot launch, appointment slots are being progressively rolled out to seniors between 70 to 80 years old. Selected seniors will be notified by mail. Individuals in other priority groups will be notified when it is their turn.
-								Please <a href="https://preregister.vaccine.gov.sg" target="_blank">pre-register here</a>to indicate your interest and we will notify you when you can make appointments online.
+								At the moment, only healthcare and frontline workers nominated by their employers are eligible for vaccination. Concurrently as part of a pilot launch, appointment slots are being progressively rolled out to seniors from 70 years old and above. Seniors will be notified by mail. Individuals in other priority groups will be notified when it is their turn.
+								Please <a href="https://preregister.vaccine.gov.sg" target="_blank">register your interest</a> to indicate your interest and we will notify you when you can make appointments online.
 							</p>
 							<p>
 								Please note that your health will be assessed on the following <a href="/information/health-advisory" >criteria</a> to ensure your safety.
@@ -35,7 +34,7 @@ permalink: /faq
 						<input type="checkbox" id="question-1-3">
 						<label class="tab-label" for="question-1-3">How can I register?</label>
 						<div class="tab-content">
-							<p>For healthcare and frontline workers: <br>If your employer has submitted your details to MOH for pre-registration, you will receive a link to book your appointments with a unique booking code sent by SMS.<br><br> For seniors between 70 to 80 years old: <br> Vaccinations are being progressively rolled out. If you have received a letter informing you of your eligibility, you can  <a href="https://preregister.vaccine.gov.sg" target="_blank"> pre-register here</a>.</p>
+							<p>For healthcare and frontline workers: <br>If your employer has submitted your details to MOH for pre-registration, you will receive a link to book your appointments with a unique booking code sent by SMS.<br><br> For seniors from 70 years old and above: <br> Vaccinations are being progressively rolled out. If you have received a letter informing you of your eligibility, you can <a href="https://preregister.vaccine.gov.sg" target="_blank">register your interest</a>.</p>
 							</div>
 					</div>
 					<!-- end of each question -->
@@ -189,7 +188,7 @@ permalink: /faq
 							</ul>
 							</p>
 							<p>
-    						In very rare cases,, this vaccine can cause a severe allergic reaction. Signs of a severe allergic reaction include: difficulty breathing, swelling of your face, throat, eyes or lips, a fast heartbeat, dizziness and weakness, a bad rash all over your body.  If you experience a severe allergic reaction, seek medical attention immediately. Call 995 or go to the nearest A&E immediately.
+    						In very rare cases, this vaccine can cause a severe allergic reaction. Signs of a severe allergic reaction include: difficulty breathing, swelling of your face, throat, eyes or lips, a fast heartbeat, dizziness and weakness, a bad rash all over your body.  If you experience a severe allergic reaction, seek medical attention immediately. Call 995 or go to the nearest A&E immediately.
     					</p>
     				</div>
     			</div>
