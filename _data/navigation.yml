@@ -1,10 +1,18 @@
 logo: /images/MOH_Hires.png
 links:
   - title: How to Sign Up
-    url: /how-to-sign-up
+    url: /how-to-sign-up/
+  - title: Health Advisory
+    url: /health-advisory/  
   - title: Information
-    collection: information
+    url: /clinic-list
+    sublinks:
+      - title: List of Clinics and Vaccination Centres
+        url: /clinic-list
+      - title: Singapore's COVID-19 Vaccination Programme
+        url: 'https://www.moh.gov.sg/covid-19/vaccination'
   - title: FAQ
-    url: /faq/
+    url: /faq
   - title: Contact Us
     url: /contact-us/
+

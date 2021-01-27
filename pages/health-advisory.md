@@ -1,7 +1,8 @@
 ---
 title: Health Advisory
-permalink: information/health-advisory/
+permalink: /health-advisory/
 ---
+
 **Full COVID-19 vaccination consists of two doses**
 
 - Choose a polyclinic or vaccination centre and two time slots, 21 to 28 days apart
