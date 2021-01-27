@@ -53,7 +53,7 @@ sections:
       alt: About Singapore's COVID-19 Vaccination Programme
   - infobar:
       title: Have more questions?
-      description: Read MOH's Information page or check out the Frequently Asked Questions.
+      description: Check out the Frequently Asked Questions.
       button: Read FAQ
       url: /faq
       alt: Read FAQ
