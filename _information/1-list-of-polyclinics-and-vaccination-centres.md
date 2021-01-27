@@ -2,8 +2,7 @@
 title: List of Polyclinics and Vaccination Centres
 permalink: information/clinic-list
 ---
-
-This is the list of clinics that are administering the Covid-19 Vaccines.
+This is the list of polyclinics and vaccination centres that are administering the Covid-19 Vaccines.
 
 <table>
   <thead>
