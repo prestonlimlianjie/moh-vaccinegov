@@ -2,7 +2,7 @@
 title: List of Polyclinics and Vaccination Centres
 permalink: /clinic-list
 ---
-This is the list of polyclinics and vaccination centres that are administering the Covid-19 Vaccines.
+This is the list of locations that are administering the Covid-19 Vaccines.
 <table>
   <thead>
     <tr>
@@ -120,6 +120,12 @@ This is the list of polyclinics and vaccination centres that are administering t
     <tr>
       <td>Raffles Medical Clinic Holland Village</td>
       <td>118 Holland Avenue #05-02/03/04, Singapore 278997 </td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Dr Stanley Peck Family Clinic</td>
+      <td>636 Bukit Batok Central #01-06, Singapore 650636 </td>
     </tr>
     <!--end of row-->
   </tbody>
