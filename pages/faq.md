@@ -21,7 +21,6 @@ permalink: /faq
 						<div class="tab-content">
 							<p>
 								At the moment, only healthcare and frontline workers nominated by their employers are eligible for vaccination. Concurrently as part of a pilot launch, appointment slots are being progressively rolled out to seniors from 70 years old and above. Seniors will be notified by mail. Individuals in other priority groups will be notified when it is their turn.
-								Please <a href="https://preregister.vaccine.gov.sg" target="_blank">register your interest</a> to indicate your interest and we will notify you when you can make appointments online.
 							</p>
 							<p>
 								Please note that your health will be assessed on the following <a href="/health-advisory" >criteria</a> to ensure your safety.
