@@ -28,8 +28,7 @@ sections:
       title: How to Sign Up
       description: >-
         Appointment slots are now open for healthcare, frontline workers and
-        seniors from 70 years old and above. Although slots are not open to the public currently, you can register your interest and we will notify you when you can
-        make appointments online.
+        seniors from 70 years old and above. 
       image: /images/vaccinate.png
       button: Learn More
       url: /how-to-sign-up
@@ -46,9 +45,11 @@ sections:
   - infopic:
       title: About the Programme
       description: >-
-        The COVID-19 vaccination programme seeks to protect Singaporeans against COVID-19, as well as to protect businesses and jobs through the progressive re-opening of Singapore.
+        The COVID-19 vaccination programme seeks to protect Singaporeans against
+        COVID-19, as well as to protect businesses and jobs through the
+        progressive re-opening of Singapore.
       button: Find Out More
-      url: https://www.moh.gov.sg/covid-19/vaccination
+      url: 'https://www.moh.gov.sg/covid-19/vaccination'
       image: /images/info.png
       alt: About Singapore's COVID-19 Vaccination Programme
   - infobar:
