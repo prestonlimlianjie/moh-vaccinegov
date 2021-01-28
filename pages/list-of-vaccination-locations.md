@@ -2,7 +2,7 @@
 title: List of Vaccination Locations
 permalink: /clinic-list
 ---
-This is the list of locations that are administering the Covid-19 Vaccines.
+Locations that are administering the Covid-19 Vaccines.
 <table>
   <thead>
     <tr>
