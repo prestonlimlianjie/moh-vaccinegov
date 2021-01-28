@@ -98,5 +98,29 @@ This is the list of polyclinics and vaccination centres that are administering t
       <td>31 Woodlands Avenue 6, Singapore 738991</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Tanjong Pagar Community Centre</td>
+      <td>101 Cantonment Road, Singapore 089774</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>EJ Tan Clinic and Surgery</td>
+      <td>104 Jurong East Street 13 #01-100, Singapore 600104 </td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Acumed Medical Group Jurong Point</td>
+      <td>1 Jurong West Central 2, #B1A-19E, Jurong Point Shopping Centre, Singapore 648886 </td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Raffles Medical Clinic Holland Village</td>
+      <td>118 Holland Avenue #05-02/03/04, Singapore 278997 </td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
