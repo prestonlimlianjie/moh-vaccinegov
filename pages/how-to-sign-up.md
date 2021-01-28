@@ -11,6 +11,6 @@ As vaccine supply is currently limited, vaccinations will be rolled out in phase
 
 #### **Appointment slots are now open for healthcare, frontline workers and seniors.**
 
-As part of a pilot launch, appointment slots are being progressively offered to seniors from 70 years old and above. Seniors will be notified by mail. Appointment slots are not open to the public currently. Please register your interest and we will notify you when you can make your appointments online.
+As part of a pilot launch, appointment slots are being progressively offered to seniors from 70 years old and above. Seniors will be notified by mail. Appointment slots are not open to the public currently.
 
 <a href="https://preregister.vaccine.gov.sg/" class="bp-button is-secondary is-uppercase" target="_blank">Register Now</a>
