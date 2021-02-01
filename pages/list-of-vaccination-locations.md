@@ -228,7 +228,7 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Teck Ghee Community Centre</td>
       <td>861 Ang Mo Kio Avenue 10, Singapore 569734 </td>
     </tr>
-    <!--end of row--><!--end of row--><!--start of row-->
+    <!--end of row--><!--start of row-->
     <tr>
       <td>Shenton Medical Group (Buangkok)</td>
       <td>10 Sengkang Central, #01-04 Buangkok NEL MRT Station, Singapore 545061</td>
