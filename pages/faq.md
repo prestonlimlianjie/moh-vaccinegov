@@ -233,17 +233,6 @@ permalink: /faq
     				</div>
     			</div>
     			<!-- end of each question -->
-	<!-- start of each question -->
-    			<div class="tab">
-    				<input type="checkbox" id="question-3-7">
-    				<label class="tab-label" for="question-3-7">Is COVID-19 vaccination safe for those with chronic illness such as hypertension, high cholesterol and diabetes?
-    				</label>
-    				<div class="tab-content">
-    					<p>The study population for Pfizer-BioNTech’s phase 3 trials included persons with medical comorbidities, who were at risk of serious, life-threatening disease and death from COVID-19 infection, and there were no safety concerns reported in this group. Persons with chronic illnesses are recommended to receive the vaccine for personal protection as well as protecting their loved ones.
-							</p>
-    				</div>
-    			</div>
-    			<!-- end of each question -->
     	</div>
 			<!-- 3rd section end-->
 </div>
