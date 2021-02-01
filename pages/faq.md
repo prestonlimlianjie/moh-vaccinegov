@@ -87,11 +87,7 @@ permalink: /faq
     				<input type="checkbox" id="question-1-9">
     				<label class="tab-label" for="question-1-9">What does the 30-day time limit mean? </label>
     				<div class="tab-content">
-    					<p>Upon successful registration of your interest <link to https://preregister.vaccine.gov.sg> , you will be sent an SMS with a unique booking link to make an appointment to be vaccinated.  You will  have 30 days from receipt of this SMS to schedule an appointment via the booking link.
- 
-Within the 30 days, you will have priority to schedule your appointment.  If you have not booked a slot within the 30-day time limit, but are still keen to be vaccinated, you may re-register your interest and will be notified to make an appointment when there are slots available. You can re-register by clicking on the same unique link in the original SMS notification.
- 
-Please note that the 30-day limit applies to the time window given to make an appointment. It does not mean that you must be vaccinated within 30 days of receiving the SMS.</p>
+    					<p>Upon successful registration of your interest <link to https://preregister.vaccine.gov.sg> , you will be sent an SMS with a unique booking link to make an appointment to be vaccinated.  You will  have 30 days from receipt of this SMS to schedule an appointment via the booking link.</p><p>Within the 30 days, you will have priority to schedule your appointment.  If you have not booked a slot within the 30-day time limit, but are still keen to be vaccinated, you may re-register your interest and will be notified to make an appointment when there are slots available. You can re-register by clicking on the same unique link in the original SMS notification.</p><p>Please note that the 30-day limit applies to the time window given to make an appointment. It does not mean that you must be vaccinated within 30 days of receiving the SMS.</p>
     				</div>
     			</div>
 					<!-- end of each question -->
