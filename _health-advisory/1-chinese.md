@@ -5,24 +5,30 @@ permalink: /health-advisory-zh
 
 # **健康指示**
 
-**Full COVID-19 vaccination consists of two doses**
+**你必须接种两剂疫苗，才能达到全面的防护功效。**
 
-- Choose a polyclinic or vaccination centre and two time slots, 21 to 28 days apart
-- Schedule other vaccines at least 2 weeks apart
+- 选择疫苗接种诊所和两个相隔21至24天的预约时间
+- 接种2019冠病疫苗与任何其他疫苗的时间应相隔14天
   <br/>
   <br/>
 
-**COVID-19 vaccine is currently not recommended for**
+**以下人士不适宜接种2019冠病疫苗**
 
-- Pregnant women
-- Children below 16 years of age
-- Persons with a severely compromised immune system
-- Persons with a history of severe allergic reactions
+- 怀孕
+- 16岁以下
+- 免疫功能低下
+- 容易出现严重过敏反应
   <br/>
   <br/>
 
-**Postpone vaccination if you are unwell or have fever in the last 24 hours.**
+**若你有以下情况，请延后接种预约**
 
-**If you are being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor.**
+- 身体感到不适
+- 在24小时以内，有发烧症状
+  <br/>
+  <br/>
 
-For more information, please refer to the [FAQ](/faq)
+
+**如果您正在接受其他疾病的治疗，并且不确定是否可以接种疫苗，建议您咨询医生。**
+
+有关更多信息，请参阅[常见问题](/faq)

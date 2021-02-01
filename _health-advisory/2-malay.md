@@ -5,24 +5,30 @@ permalink: /health-advisory-ms
 
 # **Nasihat Kesihatan**
 
-**Full COVID-19 vaccination consists of two doses**
+**Vaksin ini mempunyai dua dos. Anda harus menerima kedua-dua dos untuk mendapatkan perlindungan vaksin yang penuh.**
 
-- Choose a polyclinic or vaccination centre and two time slots, 21 to 28 days apart
-- Schedule other vaccines at least 2 weeks apart
+- Pilih sebuah klinik dan dua slot masa, dengan jarak antara 21 hingga 28 hari
+- Tunggu 14 hari selepas mengambil vaksin COVID sebelum mendapatkan sebarang vaksin lain
   <br/>
   <br/>
 
-**COVID-19 vaccine is currently not recommended for**
+**Ia tidak selamat bagi mereka yang**
 
-- Pregnant women
-- Children below 16 years of age
-- Persons with a severely compromised immune system
-- Persons with a history of severe allergic reactions
+- Hamil
+- Di bawah usia 16 tahun
+- Mengalami sistem daya tahan tubuh yang amat lemah
+- Terdedah kepada reaksi alahan yang amat teruk
   <br/>
   <br/>
 
-**Postpone vaccination if you are unwell or have fever in the last 24 hours.**
+**Menangguhkan pelantikan anda jika anda**
 
-**If you are being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor.**
+- Tidak sihat
+- Menghidap demam dalam 24 jam terakhir
+  <br/>
+  <br/>
 
-For more information, please refer to the [FAQ](/faq)
+
+**Sekiranya anda dirawat untuk keadaan perubatan lain dan tidak pasti sama ada anda boleh diberi vaksin, anda dinasihatkan untuk berjumpa doktor.**
+
+Untuk maklumat lebih lanjut, sila rujuk [Soalan Lazim](/faq)

@@ -1,6 +1,6 @@
 ---
 title: Health Advisory
-permalink: /health-advisory/
+permalink: /health-advisory-old/
 ---
 
 **Full COVID-19 vaccination consists of two doses**

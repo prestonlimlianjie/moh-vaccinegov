@@ -5,24 +5,30 @@ permalink: /health-advisory-ta
 
 # **சுகாதார ஆலோசனை**
 
-**Full COVID-19 vaccination consists of two doses**
+**இந்தத் தடுப்பூசி இருமுறை போடப்படும். தடுப்பு மருந்தின் முழுமையான பாதுகாப்பைப் பெற, நீங்கள் இரண்டு முறை தடுப்பூசி போட்டாகவேண்டும்.**
 
-- Choose a polyclinic or vaccination centre and two time slots, 21 to 28 days apart
-- Schedule other vaccines at least 2 weeks apart
+- மருந்தகத்தையும், 21 முதல் 24 நாள் இடைவெளியில் இரண்டு நேரங்களையும் தேர்ந்தெடுக்கவேண்டும்
+- கொவிட் தடுப்பூசி பெறும்போது வேறு தடுப்பூசிகள் பெறுவதற்கு 14 நாள் காத்திருக்க வேண்டும்
   <br/>
   <br/>
 
-**COVID-19 vaccine is currently not recommended for**
+**பின்வருவோருக்குத் தடுப்பூசி பாதுகாப்பானதல்ல**
 
-- Pregnant women
-- Children below 16 years of age
-- Persons with a severely compromised immune system
-- Persons with a history of severe allergic reactions
+- கர்ப்பிணிகள்
+- 16 வயதுக்குக் குறைவானோர்
+- நோய் எதிர்ப்புச்சக்தி கடுமையாகப் பாதிக்கப்பட்டிருப்போர்
+- வெகு கடுமையான ஒவ்வாமை பாதிப்புகளுக்கு உள்ளாவோர்
   <br/>
   <br/>
 
-**Postpone vaccination if you are unwell or have fever in the last 24 hours.**
+**பின்வரும் சூழ்நிலைகளில் பதிவை ஒத்திப்போடவும்**
 
-**If you are being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor.**
+- உடல்நிலை சரியில்லை
+- கடந்த 24 மணி நேரத்தில் காய்ச்சல் ஏற்பட்டது
+  <br/>
+  <br/>
 
-For more information, please refer to the [FAQ](/faq)
+
+**நீங்கள் பிற மருத்துவ நிலைமைகளுக்கு சிகிச்சையளிக்கப்படுகிறீர்கள் மற்றும் உங்களுக்கு தடுப்பூசி போட முடியுமா என்று உறுதியாக தெரியவில்லை என்றால், உங்கள் மருத்துவரை அணுகுமாறு அறிவுறுத்தப்படுகிறீர்கள்.**
+
+மேலும் தகவலுக்கு, [அடிக்கடி கேட்கப்படும் கேள்விகள்](/faq) ஐப் பார்க்கவும்

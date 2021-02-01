@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /health-advisory-new
+permalink: /health-advisory
 ---
 
 # **Health Advisory**
@@ -21,7 +21,13 @@ permalink: /health-advisory-new
   <br/>
   <br/>
 
-**Postpone vaccination if you are unwell or have fever in the last 24 hours.**
+**Postpone vaccination if you**
+
+- Are unwell
+- Have a fever in the the last 24 hours
+  <br/>
+  <br/>
+
 
 **If you are being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor.**
 
