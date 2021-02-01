@@ -10,7 +10,7 @@ permalink: /faq
 						<input type="checkbox" id="question-1-1">
 						<label class="tab-label" for="question-1-1">Is the vaccine free?</label>
 						<div class="tab-content">
-							<p>Yes. The vaccine is free across Singapore for citizens and permanent residents.</p>
+							<p>The vaccine is free for all Singaporeans and long-term residents in Singapore, which includes Singapore Permanent Residents, and Employement Pass holders</p>
 						</div>
 					</div>
 					<!-- end of each question -->
@@ -79,6 +79,24 @@ permalink: /faq
     				<label class="tab-label" for="question-1-8">What happens if I am ineligible for the vaccination but still want to get the vaccination? </label>
     				<div class="tab-content">
     					<p>Based on your responses to the eligibility check, you may not be suitable for the COVID-19 vaccination at this point. Please consult your doctor to assess your suitability. If you have been issued a doctor’s memo confirming you are suitable and are part of the priority group eligible for vaccination, you may walk in to a vaccination centre or polyclinic to receive your vaccination. Please bring along your doctor’s memo to any of the <a href="/clinic-list">locations listed</a> on vaccine.gov.sg.</p>
+    				</div>
+    			</div>
+					<!-- end of each question -->
+				<!-- start of each question -->
+    			<div class="tab">
+    				<input type="checkbox" id="question-1-9">
+    				<label class="tab-label" for="question-1-9">What does the 30-day time limit mean? </label>
+    				<div class="tab-content">
+    					<p>Upon successful <a href="https://preregister.vaccine.gov.sg" target="_blank">registration of your interest</a> , you will be sent an SMS with a unique booking link to make an appointment to be vaccinated.  You will  have 30 days from receipt of this SMS to schedule an appointment via the booking link.</p><p>Within the 30 days, you will have priority to schedule your appointment.  If you have not booked a slot within the 30-day time limit, but are still keen to be vaccinated, you may re-register your interest and will be notified to make an appointment when there are slots available. You can re-register by clicking on the same unique link in the original SMS notification.</p><p>Please note that the 30-day limit applies to the time window given to make an appointment. It does not mean that you must be vaccinated within 30 days of receiving the SMS.</p>
+    				</div>
+    			</div>
+					<!-- end of each question -->
+									<!-- start of each question -->
+    			<div class="tab">
+    				<input type="checkbox" id="question-1-10">
+    				<label class="tab-label" for="question-1-10">Why is there a time-limit to make an appointment? </label>
+    				<div class="tab-content">
+    					<p>We aim to ensure that everyone who wishes to be vaccinated is able to do so at the earliest opportunity. As vaccine supplies are limited at the outset, holding slots for those who may need more time to decide whether to get vaccinated would deprive others of a slot.</p><p>While we have prioritised certain groups for vaccination, we will move on to the next priority group to give others who wish to be vaccinated the opportunity to do so quickly.</p>
     				</div>
     			</div>
 					<!-- end of each question -->
