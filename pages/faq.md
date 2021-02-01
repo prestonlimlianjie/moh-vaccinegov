@@ -91,6 +91,15 @@ permalink: /faq
     				</div>
     			</div>
 					<!-- end of each question -->
+									<!-- start of each question -->
+    			<div class="tab">
+    				<input type="checkbox" id="question-1-10">
+    				<label class="tab-label" for="question-1-10">Why is there a time-limit to make an appointment? </label>
+    				<div class="tab-content">
+    					<p>We aim to ensure that everyone who wishes to be vaccinated is able to do so at the earliest opportunity. As vaccine supplies are limited at the outset, holding slots for those who may need more time to decide whether to get vaccinated would deprive others of a slot.</p><p>While we have prioritised certain groups for vaccination, we will move on to the next priority group to give others who wish to be vaccinated the opportunity to do so quickly.</p>
+    				</div>
+    			</div>
+					<!-- end of each question -->
     		</div>
 				<!-- 2nd section start-->
 				<div class="tabs">
