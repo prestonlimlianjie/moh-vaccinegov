@@ -29,6 +29,13 @@ permalink: /health-advisory-ms
   <br/>
 
 
-**Sekiranya anda dirawat untuk keadaan perubatan lain dan tidak pasti sama ada anda boleh diberi vaksin, anda dinasihatkan untuk berjumpa doktor.**
+COVID-19 vaccination is safe even if you have chronic illnesses such as hypertension, high cholesterol and diabetes.
 
-Untuk maklumat lebih lanjut, sila rujuk [Soalan Lazim](/faq)
+If you are being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor.
+
+If you have experienced an allergic reaction following the administration of the first dose, you should not receive the second dose. If you are who are unsure about your condition, you are
+advised to consult your doctor.
+
+Persons with prior COVID-19 infection can be vaccinated. However, those who have not been infected by COVID-19 previously are more at risk and hence will be prioritised for vaccination.
+
+For more information, please refer to the [FAQ](/faq)

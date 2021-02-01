@@ -19,8 +19,6 @@ permalink: /health-advisory
 - Persons with a history of severe allergic reactions
   <br/>
   <br/>
-	
-**COVID-19 vaccination is safe even if you have chronic illnesses such as hypertension, high cholesterol and diabetes.**
 
 **Postpone vaccination if you**
 
@@ -30,12 +28,13 @@ permalink: /health-advisory
   <br/>
 
 
-Persons with prior COVID-19 infection can be vaccinated. However, those who have not been infected by COVID-19 previously are more at risk and hence will be prioritised for vaccination.
+COVID-19 vaccination is safe even if you have chronic illnesses such as hypertension, high cholesterol and diabetes.
 
-**If you are being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor.**
+If you are being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor.
 
-If you have experienced an allergic reaction following the administration of the first dose, you
-should not receive the second dose. If you are who are unsure about your condition, you are
+If you have experienced an allergic reaction following the administration of the first dose, you should not receive the second dose. If you are who are unsure about your condition, you are
 advised to consult your doctor.
+
+Persons with prior COVID-19 infection can be vaccinated. However, those who have not been infected by COVID-19 previously are more at risk and hence will be prioritised for vaccination.
 
 For more information, please refer to the [FAQ](/faq)
