@@ -463,6 +463,10 @@ $desktop: 960px + (2 * $gap) !default;
   .display {
     font-size: 4.5rem;
   }
+
+  .bg-hero {
+    background: url(/images/vaccinegov-hero-withlogo.png);
+  }
 }
 
 .bp-section{
