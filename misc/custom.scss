@@ -509,3 +509,8 @@ $desktop: 960px + (2 * $gap) !default;
     padding-top: 6rem;
     padding-bottom: 4rem;
 }
+
+.navbar .navbar-item
+{
+  white-space: nowrap;
+  }
