@@ -466,7 +466,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 
-@media screen and (min-width: 1680px) {
+@media screen and (min-width: 1440px) {
 
   .bg-hero {
     background: url(/images/vaccinegov-hero-withlogo-lower.png) no-repeat top left !important;
@@ -475,6 +475,17 @@ $desktop: 960px + (2 * $gap) !default;
     background-position: center center !important;
   }
 }
+
+@media screen and (min-width: 1920px) {
+
+  .bg-hero {
+    background: url(/images/vaccinegov-hero-withlogo-evenlower.png) no-repeat top left !important;
+    -webkit-background-size: cover !important;
+    background-size: cover !important;
+    background-position: center center !important;
+  }
+}
+
 
 .bp-section{
   .bp-container{
