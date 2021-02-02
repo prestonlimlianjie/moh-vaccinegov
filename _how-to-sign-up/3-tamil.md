@@ -25,3 +25,5 @@ permalink: /how-to-sign-up-ta
 **If you are being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor.**
 
 For more information, please refer to the [FAQ](/faq)
+
+<a href="https://preregister.vaccine.gov.sg/" class="bp-button is-secondary is-uppercase" target="_blank">Register Now</a>

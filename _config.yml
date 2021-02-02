@@ -16,12 +16,12 @@ colors:
     - title: media-color-five
       color: '#8292A6'
 collections:
-  information:
-    output: true
   health-advisory:
     output: true
   how-to-sign-up:
     output: true
+  locations:
+    output: true  
 resources_name: News
 description: COVID-19 Vaccination Registration
 permalink: none

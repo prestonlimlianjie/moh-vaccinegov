@@ -4,11 +4,10 @@ links:
     url: /how-to-sign-up/
   - title: Health Advisory
     url: /health-advisory/
+  - title: Locations
+    collection: locations
   - title: Information
-    url: /clinic-list
     sublinks:
-      - title: List of Vaccination Locations
-        url: /clinic-list
       - title: Singapore's COVID-19 Vaccination Programme
         url: 'https://www.moh.gov.sg/covid-19/vaccination'
   - title: FAQ

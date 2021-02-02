@@ -1,6 +1,6 @@
 ---
 title: List of Vaccination Locations
-permalink: /clinic-list
+permalink: /clinic-list-old
 ---
 Locations that are administering the Covid-19 Vaccines.
 <table>
