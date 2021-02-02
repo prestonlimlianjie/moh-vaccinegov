@@ -505,5 +505,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 
 .bp-hero-body {
-  padding: 6rem 1.5rem;
+    padding: 3rem 1.5rem;
+    padding-top: 6rem;
+    padding-bottom: 4rem;
 }
