@@ -1,6 +1,6 @@
 ---
 title: Clinics
-permalink: /clinic-list
+permalink: /locations
 ---
 Locations that are administering the Covid-19 Vaccines.
 
