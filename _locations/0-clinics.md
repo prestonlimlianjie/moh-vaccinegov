@@ -152,6 +152,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>780 Upper Serangoon Road #01-01 Singapore 534649</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Shenton Medical Group (Buangkok)</td>
+      <td>10 Sengkang Central, #01-04 Buangkok NEL MRT Station, Singapore 545061</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
