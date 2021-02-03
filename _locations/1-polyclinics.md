@@ -13,12 +13,6 @@ Locations that are administering the Covid-19 Vaccines.
     </tr>
   </thead>
   <tbody>
-    <!--start of row-->
-    <tr>
-      <td>Ang Mo Kio Polyclinic</td>
-      <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
-    </tr>
-    <!--end of row-->
 	  <!--start of row-->
     <tr>
       <td>Outram Polyclinic</td>
@@ -42,6 +36,12 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Geylang Polyclinic</td>
       <td>21 Geylang East Central, Singapore 389707</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Toa Payoh Polyclinic</td>
+      <td>2003 Lorong 8 Toa Payoh Singapore 319260</td>
     </tr>
     <!--end of row-->
   </tbody>
@@ -119,8 +119,8 @@ Locations that are administering the Covid-19 Vaccines.
     <!--end of row-->
 		<!--start of row-->
     <tr>
-      <td>Toa Payoh Polyclinic</td>
-      <td>2003 Lorong 8 Toa Payoh Singapore 319260</td>
+      <td>Ang Mo Kio Polyclinic</td>
+      <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
     </tr>
     <!--end of row-->
   </tbody>
