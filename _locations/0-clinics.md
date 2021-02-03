@@ -64,8 +64,8 @@ Locations that are administering the Covid-19 Vaccines.
   <tbody>
     <!--start of row-->
     <tr>
-      <td>Punggol Polyclinic</td>
-      <td>681 Punggol Drive, Oasis Terraces #02-01, Singapore 820681</td>
+      <td>Dr Stanley Peck Family Clinic</td>
+      <td>636 Bukit Batok Central #01-06, Singapore 650636</td>
     </tr>
     <!--end of row-->
     <!--start of row-->
