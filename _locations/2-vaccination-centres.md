@@ -112,20 +112,8 @@ Locations that are administering the Covid-19 Vaccines.
   <tbody>
     <!--start of row-->
     <tr>
-      <td>Punggol Polyclinic</td>
-      <td>681 Punggol Drive, Oasis Terraces #02-01, Singapore 820681</td>
-    </tr>
-    <!--end of row-->
-    <!--start of row-->
-    <tr>
-      <td>Woodlands Polyclinic</td>
-      <td>10 Woodlands Street 31, Singapore 738579</td>
-    </tr>
-    <!--end of row-->
-    <!--start of row-->
-    <tr>
-      <td>Tampines Polyclinic</td>
-      <td>1 Tampines Street 41, Singapore 529203</td>
+      <td>Former Hong Kah Secondary School</td>
+      <td>931 Jurong West Street 42, Singapore 649370</td>
     </tr>
     <!--end of row-->
   </tbody>
