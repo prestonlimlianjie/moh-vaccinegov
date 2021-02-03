@@ -1,0 +1,109 @@
+---
+title: Vaccination Centres
+permalink: /locations-vcs
+---
+Locations that are administering the Covid-19 Vaccines.
+
+###  **Central**
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!--start of row-->
+    <tr>
+      <td>Fullerton Health Vaccination Centre @ Raffles City Convention</td>
+      <td>Raffles City Convention Centre Level 4 Orchard Room, 252 North Bridge Road, Singapore 179103</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Tanjong Pagar Community Centre</td>
+      <td>101 Cantonment Road, Singapore 089774</td>
+    </tr>
+    <!--end of row-->
+  </tbody>
+</table>
+
+
+### **East**
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!--start of row-->
+    <tr>
+      <td>Raffles Medical Vaccination Centre - Airport</td>
+      <td>10 Airport Boulevard #01-01 Passenger Building Terminal 4 Singapore 819665</td>
+    </tr>
+    <!--end of row-->
+  </tbody>
+</table>
+
+### **North**
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!--start of row-->
+    <tr>
+      <td>Woodlands Galaxy Community Club</td>
+      <td>31 Woodlands Avenue 6, Singapore 738991</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Teck Ghee Community Centre</td>
+      <td>861 Ang Mo Kio Avenue 10, Singapore 569734</td>
+    </tr>
+    <!--end of row-->
+  </tbody>
+</table>
+
+### **North East**
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!--start of row-->
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <!--end of row-->
+    
+  </tbody>
+</table>
+
+### **West**
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!--start of row-->
+    <tr>
+      <td>Former Hong Kah Secondary School</td>
+      <td>931 Jurong West Street 42, Singapore 649370</td>
+    </tr>
+    <!--end of row-->
+  </tbody>
+</table>
