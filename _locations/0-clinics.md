@@ -16,7 +16,7 @@ Locations that are administering the Covid-19 Vaccines.
     <!--start of row-->
     <tr>
       <td>Raffles Medical Clinic Holland Village</td>
-      <td>681 Punggol Drive, Oasis Terraces #02-01, Singapore 820681</td>
+      <td>118 Holland Avenue #05-02/03/04, Singapore 278997</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
