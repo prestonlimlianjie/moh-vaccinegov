@@ -19,6 +19,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Raffles City Convention Centre Level 4 Orchard Room, 252 North Bridge Road, Singapore 179103</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Tanjong Pagar Community Centre</td>
+      <td>101 Cantonment Road, Singapore 089774</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
