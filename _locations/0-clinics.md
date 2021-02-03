@@ -104,6 +104,18 @@ Locations that are administering the Covid-19 Vaccines.
       <td>658 Punggol East #01-04, Singapore 820658</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Etern Medical Clinic</td>
+      <td>70 Pungol Centre, #01-05, Singapore 828868</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Northeast Medical Group (Sengkang)</td>
+      <td>5 Sengkang Square, Singapore 545062</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
