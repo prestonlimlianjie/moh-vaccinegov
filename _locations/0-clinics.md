@@ -19,6 +19,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>681 Punggol Drive, Oasis Terraces #02-01, Singapore 820681</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Mei Ling Clinic</td>
+      <td>158 Mei Ling Street, #01-80, Singapore 140158</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
