@@ -31,6 +31,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>133 New Bridge Road #02-09, Singapore 059413</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Medihealth Bishan Clinic & Surgery</td>
+      <td>121 Bishan Street 12 #01-95, Singapore 570121</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
