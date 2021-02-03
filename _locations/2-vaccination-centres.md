@@ -2,7 +2,6 @@
 title: Vaccination Centres
 permalink: /locations-vcs
 ---
-
 Locations that are administering the Covid-19 Vaccines.
 
 ###  **Central**
@@ -16,8 +15,8 @@ Locations that are administering the Covid-19 Vaccines.
   <tbody>
     <!--start of row-->
     <tr>
-      <td>Punggol Polyclinic</td>
-      <td>681 Punggol Drive, Oasis Terraces #02-01, Singapore 820681</td>
+      <td>Fullerton Health Vaccination Centre @ Raffles City Convention</td>
+      <td>Raffles City Convention Centre Level 4 Orchard Room, 252 North Bridge Road, Singapore 179103</td>
     </tr>
     <!--end of row-->
     <!--start of row-->
