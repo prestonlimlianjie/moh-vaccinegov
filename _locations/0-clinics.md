@@ -80,6 +80,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>785E Woodlands Rise #01-12, Singapore 735785</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Frontier Medical Associates Yishun</td>
+      <td>654 Yishun Avenue 4 #01-437, Singapore 760654</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
