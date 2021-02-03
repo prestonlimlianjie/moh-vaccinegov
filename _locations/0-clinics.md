@@ -50,6 +50,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>370 Tanjong Katong Road, Singapore 437127</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Lee Clinic</td>
+      <td>123 Bedok North Street 2 #01-156, Singapore 460123</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
