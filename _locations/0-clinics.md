@@ -68,16 +68,16 @@ Locations that are administering the Covid-19 Vaccines.
       <td>636 Bukit Batok Central #01-06, Singapore 650636</td>
     </tr>
     <!--end of row-->
-    <!--start of row-->
+		<!--start of row-->
     <tr>
-      <td>Woodlands Polyclinic</td>
-      <td>10 Woodlands Street 31, Singapore 738579</td>
+      <td>Lian Clinic</td>
+      <td>18 Marsiling Lane, Singapore 730018</td>
     </tr>
     <!--end of row-->
-    <!--start of row-->
+		<!--start of row-->
     <tr>
-      <td>Tampines Polyclinic</td>
-      <td>1 Tampines Street 41, Singapore 529203</td>
+      <td>EH Medical</td>
+      <td>785E Woodlands Rise #01-12, Singapore 735785</td>
     </tr>
     <!--end of row-->
   </tbody>
