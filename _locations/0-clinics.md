@@ -56,6 +56,18 @@ Locations that are administering the Covid-19 Vaccines.
       <td>123 Bedok North Street 2 #01-156, Singapore 460123</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Northeast Medical Group (Simei)</td>
+      <td>30 Simei Street 3, #02-01 Simei MRT Station, Singapore 529888</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Central 24-Hr Clinic</td>
+      <td>446 Pasir Ris Drive 6 #01-122, Singapore 510446</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
