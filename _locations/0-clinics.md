@@ -140,6 +140,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>1 Sengkang Square #04-09, Compass Mall One, Singapore 545078</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Mission Medical Clinic</td>
+      <td>780 Upper Serangoon Road #01-01 Singapore 534649</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
