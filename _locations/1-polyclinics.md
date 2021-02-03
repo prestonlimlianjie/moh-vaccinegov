@@ -117,6 +117,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>2 Yishun Avenue 9, Singapore 768898</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Toa Payoh Polyclinic</td>
+      <td>2003 Lorong 8 Toa Payoh Singapore 319260</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
