@@ -81,8 +81,7 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Raffles Medical Vaccination Centre - Airport</td>
       <td>
-        10 Airport Boulevard #01-01 Passenger Building Terminal 4 Singapore
-        819665
+        118 Holland Avenue #05-02/03/04, Singapore 278997
       </td>
     </tr>
     <!--end of row-->
