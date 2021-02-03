@@ -104,10 +104,17 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
     </tr>
-    <!--end of row--><!--start of row-->
+    <!--end of row-->
+		<!--start of row-->
     <tr>
       <td>Choa Chu Kang Polyclinic</td>
       <td>2 Teck Whye Crescent, Singapore 688846</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Yishun Polyclinic</td>
+      <td>2 Yishun Avenue 9, Singapore 768898</td>
     </tr>
     <!--end of row-->
   </tbody>
