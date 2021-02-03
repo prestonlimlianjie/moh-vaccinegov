@@ -38,6 +38,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>162 Bukit Merah Central Level 4, Singapore 150163</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Geylang Polyclinic</td>
+      <td>21 Geylang East Central, Singapore 389707</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -132,6 +138,12 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Clementi Polyclinic</td>
       <td>451 Clementi Avenue 3, Singapore 120451</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Jurong Polyclinic</td>
+      <td>90 Jurong East Avenue 1, Singapore 609788</td>
     </tr>
     <!--end of row-->
   </tbody>
