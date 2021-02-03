@@ -116,6 +116,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>5 Sengkang Square, Singapore 545062</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Raffles Medical Clinic Compass One</td>
+      <td>1 Sengkang Square #04-09, Compass Mall One, Singapore 545078</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
