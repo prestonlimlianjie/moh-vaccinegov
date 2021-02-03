@@ -19,6 +19,13 @@ Locations that are administering the Covid-19 Vaccines.
       <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
     </tr>
     <!--end of row-->
+	  <!--start of row-->
+    <tr>
+      <td>Outram Polyclinic</td>
+      <td> 3 Second Hospital Avenue, #02-00 Health Promotion Board Building,
+        Singapore 168937</td>
+    </tr>
+    <!--end of row-->
 		<!--start of row-->
     <tr>
       <td>Queenstown Polyclinic</td>
