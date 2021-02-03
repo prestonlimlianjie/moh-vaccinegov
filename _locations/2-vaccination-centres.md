@@ -62,6 +62,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>31 Woodlands Avenue 6, Singapore 738991</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Teck Ghee Community Centre</td>
+      <td>861 Ang Mo Kio Avenue 10, Singapore 569734</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
