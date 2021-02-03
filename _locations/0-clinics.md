@@ -25,6 +25,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>158 Mei Ling Street, #01-80, Singapore 140158</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Family Medicine Clinic Chinatown</td>
+      <td>133 New Bridge Road #02-09, Singapore 059413</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -150,6 +156,12 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Acumed Medical Group Jurong Point</td>
       <td>1 Jurong West Central 2, #B1A-19E, Jurong Point Shopping Centre, Singapore 648886</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Frontier Family Medicine Clinic</td>
+      <td>3151 Commonwealth Avenue West #04-01 Grantral Mall, Singapore 129581</td>
     </tr>
     <!--end of row-->
   </tbody>
