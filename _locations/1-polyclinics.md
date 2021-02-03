@@ -69,6 +69,18 @@ Locations that are administering the Covid-19 Vaccines.
       <td>11 Bedok North Street 1 Heartbeat@ #02-01, #03-01, Singapore 469662</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Marine Parade Polyclinic</td>
+      <td>80 Marine Parade Central, Singapore 440080</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Pasir Ris Polyclinic</td>
+      <td>1 Pasir Ris Drive 4, Singapore 519457</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -114,6 +126,18 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Hougang Polyclinic</td>
       <td>89 Hougang Avenue 4, Singapore 538829</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Punggol Polyclinic</td>
+      <td>681 Punggol Drive, Singapore 8206819</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>SengKang Polyclinic</td>
+      <td>2 Sengkang Square, Singapore 545025</td>
     </tr>
     <!--end of row-->
   </tbody>
