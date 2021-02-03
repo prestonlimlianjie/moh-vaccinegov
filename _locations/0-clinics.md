@@ -140,5 +140,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>104 Jurong East Street 13 #01-100, Singapore 600104</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Acumed Medical Group Jurong Point</td>
+      <td>1 Jurong West Central 2, #B1A-19E, Jurong Point Shopping Centre, Singapore 648886</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
