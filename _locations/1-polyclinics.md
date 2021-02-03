@@ -32,6 +32,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>580 Stirling Road, Singapore 148958</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Bukit Merah Polyclinic</td>
+      <td>162 Bukit Merah Central Level 4, Singapore 150163</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -49,6 +55,12 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Tampines Polyclinic</td>
       <td>1 Tampines Street 41, Singapore 529203</td>
+    </tr>
+    <!--end of row-->
+		 <!--start of row-->
+    <tr>
+      <td>Bedok Polyclinic</td>
+      <td>11 Bedok North Street 1 Heartbeat@ #02-01, #03-01, Singapore 469662</td>
     </tr>
     <!--end of row-->
   </tbody>
@@ -73,6 +85,11 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
+    </tr>
+    <!--end of row--><!--start of row-->
+    <tr>
+      <td>Choa Chu Kang Polyclinic</td>
+      <td>2 Teck Whye Crescent, Singapore 688846</td>
     </tr>
     <!--end of row-->
   </tbody>
@@ -111,6 +128,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>26 Jurong West Street 61, Singapore 648201</td>
     </tr>
     <!--end of row-->
-   
+    <!--start of row-->
+    <tr>
+      <td>Clementi Polyclinic</td>
+      <td>451 Clementi Avenue 3, Singapore 120451</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
