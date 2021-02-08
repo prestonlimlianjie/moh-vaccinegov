@@ -36,6 +36,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Medihealth Bishan Clinic & Surgery</td>
       <td>121 Bishan Street 12 #01-95, Singapore 570121</td>
     </tr>
+    <!--end of row--><!--start of row-->
+    <tr>
+      <td>Shenton Medical Group Alexndra Retail Centre </td>
+      <td>460 Alexandra Road, #02-15 Alexander Retail Centre, Singapore 119963</td>
+    </tr>
     <!--end of row-->
   </tbody>
 </table>
