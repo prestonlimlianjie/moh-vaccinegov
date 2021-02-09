@@ -76,9 +76,9 @@ permalink: /faq
 					<!-- start of each question -->
     			<div class="tab">
     				<input type="checkbox" id="question-1-8">
-    				<label class="tab-label" for="question-1-8">What happens if I am ineligible for the vaccination but still want to get the vaccination? </label>
+    				<label class="tab-label" for="question-1-8">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
     				<div class="tab-content">
-    					<p>Based on your responses to the eligibility check, you may not be suitable for the COVID-19 vaccination at this point. Please consult your doctor to assess your suitability. If you have been issued a doctor’s memo confirming you are suitable and are part of the priority group eligible for vaccination, you may walk in to a vaccination centre or polyclinic to receive your vaccination. Please bring along your doctor’s memo to any of the <a href="/locations">locations listed</a> on vaccine.gov.sg.</p>
+    					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech or Moderna COVID-19 Vaccines due to medical reasons, you may be able to get vaccinated later if data become available that it is safe to receive the vaccination, or you may be able to get vaccinated with other COVID-19 vaccines.</p>
     				</div>
     			</div>
 					<!-- end of each question -->
