@@ -86,6 +86,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>101 Bukit Panjang Road, Singapore 679910</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Canberra Community Centre</td>
+      <td>2 Sembawang Crescent, Singapore 757632</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
