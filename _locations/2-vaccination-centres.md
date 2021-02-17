@@ -25,6 +25,18 @@ Locations that are administering the Covid-19 Vaccines.
       <td>101 Cantonment Road, Singapore 089774</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Jalan Besar Community Centre</td>
+      <td>69 Jellicoe Road, Singapore 208737</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Bishan Community Centre</td>
+      <td>51 Bishan Street 13, Singapore 579799</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -68,6 +80,18 @@ Locations that are administering the Covid-19 Vaccines.
       <td>861 Ang Mo Kio Avenue 10, Singapore 569734</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Senja-Cashew Community Centre</td>
+      <td>101 Bukit Panjang Road, Singapore 679910</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Canberra Community Centre</td>
+      <td>2 Sembawang Crescent, Singapore 757632</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -82,11 +106,10 @@ Locations that are administering the Covid-19 Vaccines.
   <tbody>
     <!--start of row-->
     <tr>
-      <td></td>
-      <td></td>
+      <td>Serangoon Community Centre</td>
+      <td>10 Serangoon North Avenue 2, Singapore 555877</td>
     </tr>
     <!--end of row-->
-    
   </tbody>
 </table>
 
