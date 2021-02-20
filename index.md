@@ -12,10 +12,10 @@ sections:
         登记接种2019冠病疫苗/ Pendaftaran bagi Vaksinasi COVID-19/ கொவிட்-19
         தடுப்பூசிக்கான பதிவு
       background: /images/vaccinegov-hero-withlogo-higher.png
-      button: Register Your Interest
+      button: Register Here
       url: 'https://preregister.vaccine.gov.sg'
       key_highlights:
-        - title: Register Your Interest
+        - title: Register Here
           description: 预先登记/ Pendaftaran/ பதிவு செய்தல்
           url: 'https://preregister.vaccine.gov.sg'
         - title: Health Advisory
