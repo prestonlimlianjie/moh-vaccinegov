@@ -15,7 +15,7 @@ sections:
       button: Register Here
       url: 'https://preregister.vaccine.gov.sg'
       key_highlights:
-        - title: Register Your Interest
+        - title: Register Here
           description: 预先登记/ Pendaftaran/ பதிவு செய்தல்
           url: 'https://preregister.vaccine.gov.sg'
         - title: Health Advisory
