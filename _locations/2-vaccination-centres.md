@@ -56,6 +56,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>10 Airport Boulevard #01-01 Passenger Building Terminal 4 Singapore 819665</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Marine Parade Community Centre </td>
+      <td>278 Marine Parade Road, Singapore 449282</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -92,6 +98,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>2 Sembawang Crescent, Singapore 757632</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Bukit Timah Community Centre</td>
+      <td>20 Toh Yi Drive, Singapore 596569</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -126,6 +138,12 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Former Hong Kah Secondary School</td>
       <td>931 Jurong West Street 42, Singapore 649370</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Taman Jurong Community Centre</td>
+      <td>1 Yung Sheng Road, Singapore 618495</td>
     </tr>
     <!--end of row-->
   </tbody>
