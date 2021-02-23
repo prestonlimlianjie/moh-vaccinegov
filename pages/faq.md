@@ -60,7 +60,7 @@ permalink: /faq
     				<input type="checkbox" id="question-1-6">
     				<label class="tab-label" for="question-1-6">How do I reschedule my appointments? </label>
     				<div class="tab-content">
-    					<p>If you have not taken your 1st dose, cancel and rebook both appointments using the same booking link issued by SMS. If you have taken your 1st dose and wish to reschedule your 2nd dose, please call MOH at 1800 333 9999 for assistance.</p>
+    					<p> You may reschedule your appointments using the same booking link in the original SMS.</p>
     				</div>
     			</div>
 					<!-- end of each question -->
