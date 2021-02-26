@@ -21,19 +21,19 @@ Locations that are administering the Covid-19 Vaccines.
     <!--end of row-->
 		<!--start of row-->
     <tr>
-      <td>Tanjong Pagar Community Centre</td>
+      <td>Tanjong Pagar Community Club</td>
       <td>101 Cantonment Road, Singapore 089774</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
     <tr>
-      <td>Jalan Besar Community Centre</td>
+      <td>Jalan Besar Community Club</td>
       <td>69 Jellicoe Road, Singapore 208737</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
     <tr>
-      <td>Bishan Community Centre</td>
+      <td>Bishan Community Club</td>
       <td>51 Bishan Street 13, Singapore 579799</td>
     </tr>
     <!--end of row-->
@@ -58,7 +58,7 @@ Locations that are administering the Covid-19 Vaccines.
     <!--end of row-->
 		<!--start of row-->
     <tr>
-      <td>Marine Parade Community Centre </td>
+      <td>Marine Parade Community Club </td>
       <td>278 Marine Parade Road, Singapore 449282</td>
     </tr>
     <!--end of row-->
@@ -82,25 +82,25 @@ Locations that are administering the Covid-19 Vaccines.
     <!--end of row-->
 		<!--start of row-->
     <tr>
-      <td>Teck Ghee Community Centre</td>
+      <td>Teck Ghee Community Club</td>
       <td>861 Ang Mo Kio Avenue 10, Singapore 569734</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
     <tr>
-      <td>Senja-Cashew Community Centre</td>
+      <td>Senja-Cashew Community Club</td>
       <td>101 Bukit Panjang Road, Singapore 679910</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
     <tr>
-      <td>Canberra Community Centre</td>
+      <td>Canberra Community Club</td>
       <td>2 Sembawang Crescent, Singapore 757632</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
     <tr>
-      <td>Bukit Timah Community Centre</td>
+      <td>Bukit Timah Community Club</td>
       <td>20 Toh Yi Drive, Singapore 596569</td>
     </tr>
     <!--end of row-->
@@ -118,7 +118,7 @@ Locations that are administering the Covid-19 Vaccines.
   <tbody>
     <!--start of row-->
     <tr>
-      <td>Serangoon Community Centre</td>
+      <td>Serangoon Community Club </td>
       <td>10 Serangoon North Avenue 2, Singapore 555877</td>
     </tr>
     <!--end of row-->
@@ -142,7 +142,7 @@ Locations that are administering the Covid-19 Vaccines.
     <!--end of row-->
 		<!--start of row-->
     <tr>
-      <td>Taman Jurong Community Centre</td>
+      <td>Taman Jurong Community Club</td>
       <td>1 Yung Sheng Road, Singapore 618495</td>
     </tr>
     <!--end of row-->
