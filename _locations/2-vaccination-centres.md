@@ -118,7 +118,7 @@ Locations that are administering the Covid-19 Vaccines.
   <tbody>
     <!--start of row-->
     <tr>
-      <td>Serangoon Community Club </td>
+      <td>The Serangoon Community Club </td>
       <td>10 Serangoon North Avenue 2, Singapore 555877</td>
     </tr>
     <!--end of row-->
