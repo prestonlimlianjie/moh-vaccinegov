@@ -15,8 +15,8 @@ Locations that are administering the Covid-19 Vaccines.
   <tbody>
     <!--start of row-->
     <tr>
-      <td>Fullerton Health Vaccination Centre @ Raffles City Convention</td>
-      <td>Raffles City Convention Centre Level 4 Orchard Room, 252 North Bridge Road, Singapore 179103</td>
+      <td>Raffles City Convention Centre</td>
+      <td>252 North Bridge Road, Singapore 179103, Level 4 Orchard Room</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
@@ -52,7 +52,7 @@ Locations that are administering the Covid-19 Vaccines.
   <tbody>
     <!--start of row-->
     <tr>
-      <td>Raffles Medical Vaccination Centre - Airport</td>
+      <td>Changi Airport Terminal 4</td>
       <td>10 Airport Boulevard #01-01 Passenger Building Terminal 4 Singapore 819665</td>
     </tr>
     <!--end of row-->
