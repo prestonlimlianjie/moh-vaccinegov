@@ -194,6 +194,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>80 Punggol Field #01-01, Singapore 828815</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Hougang Community Club    </td>
+      <td>35 Hougang Avenue 3, Singapore 538840</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
