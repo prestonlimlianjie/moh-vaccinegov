@@ -182,6 +182,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>2 Sengkang Square,  #01-01 Sengkang Community Hub, Singapore 545025</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Punggol 21 Community Club   </td>
+      <td>80 Punggol Field #01-01, Singapore 828815</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
