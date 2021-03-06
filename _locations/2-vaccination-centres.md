@@ -230,5 +230,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>60 Jurong West St 91, Singapore 649040</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Clementi Community Centre  </td>
+      <td>220 Clementi Avenue 4, Singapore 129880</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
