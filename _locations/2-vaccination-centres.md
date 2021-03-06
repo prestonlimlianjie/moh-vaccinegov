@@ -80,6 +80,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>850 New Upper Changi Road, Singapore 467352</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Pasir Ris Elias Community Club    </td>
+      <td>93 Pasir Ris Drive 3, Singapore 519498</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
