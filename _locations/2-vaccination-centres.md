@@ -62,6 +62,18 @@ Locations that are administering the Covid-19 Vaccines.
       <td>278 Marine Parade Road, Singapore 449282</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Geylang Serai Community Club  </td>
+      <td>1 Engku Aman Turn, #01-01, Wisma Geylang Serai, Singapore 408528</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Bedok Community Centre   </td>
+      <td>850 New Upper Changi Road, Singapore 467352</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -102,6 +114,12 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Bukit Timah Community Club</td>
       <td>20 Toh Yi Drive, Singapore 596569</td>
+    </tr>
+    <!--end of row-->
+			<!--start of row-->
+    <tr>
+      <td>Nee Soon East Community Club</td>
+      <td>1 Yishun Avenue 9, Singapore 768893</td>
     </tr>
     <!--end of row-->
   </tbody>
