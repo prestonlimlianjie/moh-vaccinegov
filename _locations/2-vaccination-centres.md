@@ -152,6 +152,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>30 Bukit Batok Street 31, Singapore 659440</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Marsiling Community Club   </td>
+      <td>100 Admiralty Road, Singapore 739980</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
