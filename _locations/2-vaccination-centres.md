@@ -218,5 +218,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>90 Boon Lay Way, Singapore 609958</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Nanyang Community Club </td>
+      <td>60 Jurong West St 91, Singapore 649040</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
