@@ -43,6 +43,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>365 Commonwealth Ave, Singapore 149732</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Toa Payoh West Community Club </td>
+      <td>200 Lorong 2 Toa Payoh, Singapore 319642</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
