@@ -40,7 +40,7 @@ Locations that are administering the Covid-19 Vaccines.
 		<!--start of row-->
     <tr>
       <td>Queenstown Community Centre </td>
-      <td>365 Commonwealth Ave, Singapore 149732</td>
+      <td>365 Commonwealth Avenue, Singapore 149732</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
@@ -227,7 +227,7 @@ Locations that are administering the Covid-19 Vaccines.
 		<!--start of row-->
     <tr>
       <td>Nanyang Community Club </td>
-      <td>60 Jurong West St 91, Singapore 649040</td>
+      <td>60 Jurong West Street 91, Singapore 649040</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
