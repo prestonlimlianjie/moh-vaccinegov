@@ -37,6 +37,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>51 Bishan Street 13, Singapore 579799</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Queenstown Community Centre </td>
+      <td>365 Commonwealth Ave, Singapore 149732</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -120,6 +126,12 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Nee Soon East Community Club</td>
       <td>1 Yishun Avenue 9, Singapore 768893</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Chua Chu Kang Community Club </td>
+      <td>35 Teck Whye Avenue, Singapore 688892</td>
     </tr>
     <!--end of row-->
   </tbody>
