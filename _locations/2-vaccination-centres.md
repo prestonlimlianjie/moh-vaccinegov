@@ -146,6 +146,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>35 Teck Whye Avenue, Singapore 688892</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Hong Kah North Community Club  </td>
+      <td>30 Bukit Batok Street 31, Singapore 659440</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
