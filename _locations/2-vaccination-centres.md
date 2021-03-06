@@ -164,6 +164,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>10 Serangoon North Avenue 2, Singapore 555877</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Sengkang Community Club  </td>
+      <td>2 Sengkang Square,  #01-01 Sengkang Community Hub, Singapore 545025</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
