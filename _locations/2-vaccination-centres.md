@@ -176,5 +176,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>1 Yung Sheng Road, Singapore 618495</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Yuhua Community Club </td>
+      <td>90 Boon Lay Way, Singapore 609958</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
