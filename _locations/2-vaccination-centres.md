@@ -49,6 +49,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>200 Lorong 2 Toa Payoh, Singapore 319642</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Radin Mas Community Club  </td>
+      <td>1 Telok Blangah Crescent, Singapore 098915</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
