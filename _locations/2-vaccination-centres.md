@@ -92,6 +92,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>93 Pasir Ris Drive 3, Singapore 519498</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Arena@ Our Tampines Hub (Hockey Court)  </td>
+      <td>1 Tampines Walk, Singapore 528523</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
