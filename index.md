@@ -28,7 +28,7 @@ sections:
       title: How to Sign Up
       description: >-
         Appointment slots are now open for healthcare, frontline workers and
-        seniors from 70 years old and above. 
+        seniors from 60 years old and above. 
       image: /images/vaccinate.png
       button: Learn More
       url: /how-to-sign-up
