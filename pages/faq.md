@@ -33,7 +33,7 @@ permalink: /faq
 						<input type="checkbox" id="question-1-3">
 						<label class="tab-label" for="question-1-3">How can I register?</label>
 						<div class="tab-content">
-							<p>For healthcare and frontline workers: <br>If your employer has submitted your details to MOH for pre-registration, you will receive a link to book your appointments with a unique booking code sent by SMS.<br><br> For seniors from 60 years old and above, you can <a href="https://preregister.vaccine.gov.sg" target="_blank">register your interest</a> using the link or at any community centre/club with your NIRC / FIN</p> 
+							<p>For healthcare and frontline workers: <br>If your employer has submitted your details to MOH for pre-registration, you will receive a link to book your appointments with a unique booking code sent by SMS.<br><br> For seniors from 60 years old and above: <br>You can <a href="https://preregister.vaccine.gov.sg" target="_blank">register your interest</a> using the link or at any community centre/club with your NRIC / FIN</p> 
 							</div>
 					</div>
 					<!-- end of each question -->
