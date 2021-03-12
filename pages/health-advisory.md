@@ -18,7 +18,7 @@ permalink: /health-advisory/
   <br/>
   <br/>
 
-**Important reminders for the day of vaccination
+**Important reminders for the day of vaccination**
 
 - Wear short sleeved or loose clothes
 - Bring your NRIC or FIN with you for both appointments
@@ -26,7 +26,7 @@ permalink: /health-advisory/
  <br/>
  <br/>
 
-**Postpone your appointment if you
+**Postpone your appointment if you**
 
 - Are unwell
 - Have a fever in the last 24 hours
