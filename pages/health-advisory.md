@@ -2,33 +2,36 @@
 title: Health Advisory
 permalink: /health-advisory/
 ---
-
 **Full COVID-19 vaccination consists of two doses**
 
-- Choose a vaccination location and two time slots, 21 to 28 days apart
-- Schedule other vaccines at least 2 weeks apart
+- The dosing regimen is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine
+- It is recommended for those who have received the COVID-19 vaccinations to defer other non-COVID-19 vaccinations for 2 weeks or more, if possible
   <br/>
   <br/>
 
 **COVID-19 vaccine is currently not recommended for**
 
 - Pregnant women
-- Children below 16 years of age
-- Persons with a severely compromised immune system (e.g. active cancer / on cancer treatment, on other immunotherapy for non-cancer conditions, have HIV infection with CD4 < 200)
-- Persons with a history of severe allergic reactions
+- Individuals below 16 years of age for the Pfizer-BioNTech vaccine, and individuals below 18 years of age for the Moderna vaccine
+- Persons with a severely weakened immune system
+- Persons with a history of a life-threatening allergic reaction (anaphylaxis)
   <br/>
   <br/>
 
-**COVID-19 vaccination is safe even if you have chronic illnesses such as hypertension, high cholesterol and diabetes.**
+**Important reminders for the day of vaccination**
 
-**Postpone vaccination if you are unwell or have fever in the last 24 hours.**
+- Wear short sleeved or loose clothes
+- Bring your NRIC or FIN with you for both appointments
+- It is advisable to stay hydrated, not come with an empty stomach, and avoid strenuous exercise
+ <br/>
+ <br/>
 
-Persons with prior COVID-19 infection can be vaccinated. However, those who have not been infected by COVID-19 previously are more at risk and hence will be prioritised for vaccination.
+**Postpone your appointment if you**
 
-**If you are being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor.**
+- Are unwell
+- Have a fever in the last 24 hours
+- 
+ Are serving Stay-Home Notice (SHN) or Quarantine Order
 
-If you have experienced an allergic reaction following the administration of the first dose, you
-should not receive the second dose. If you are who are unsure about your condition, you are
-advised to consult your doctor.
 
 For more information, please refer to the [FAQ](/faq)
