@@ -21,12 +21,12 @@ sections:
         - title: Health Advisory
           description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
           url: /health-advisory
-        - title: Book appointment
-          description: Already have the code?
-          url: 'https://appointment.vaccine.gov.sg'
         - title: Request for early vaccination
           description: 'For early vaccination '
           url: 'https://go.gov.sg/c19vacappeal'
+        - title: Book appointment
+          description: Already have the code?
+          url: 'https://appointment.vaccine.gov.sg'
   - infopic:
       title: How to Sign Up
       description: >-
