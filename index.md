@@ -56,12 +56,6 @@ sections:
       image: /images/info.png
       alt: About Singapore's COVID-19 Vaccination Programme
   - infobar:
-      title: Have more questions?
-      description: Check out the Frequently Asked Questions.
-      button: Read FAQ
-      url: /faq
-      alt: Read FAQ
-  - infobar:
       title: Request for early vaccination
       subtitle: Infobar Subtitle
       description: >-
@@ -70,4 +64,10 @@ sections:
         population age group
       button: Find out more
       url: /Appeal for early vaccination
+  - infobar:
+      title: Have more questions?
+      description: Check out the Frequently Asked Questions.
+      button: Read FAQ
+      url: /faq
+      alt: Read FAQ
 ---
