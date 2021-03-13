@@ -61,4 +61,13 @@ sections:
       button: Read FAQ
       url: /faq
       alt: Read FAQ
+  - infobar:
+      title: Request for early vaccination
+      subtitle: Infobar Subtitle
+      description: >-
+        Singaporeans travelling for education or for employment, or on
+        compassionate grounds, may apply for early vaccination ahead of your
+        population age group
+      button: Find out more
+      url: /Appeal for early vaccination
 ---
