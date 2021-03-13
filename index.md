@@ -24,6 +24,9 @@ sections:
         - title: Book appointment
           description: Already have the code?
           url: 'https://appointment.vaccine.gov.sg'
+        - title: Request for early vaccination
+          description: Key Highlight description
+          url: ''
   - infopic:
       title: How to Sign Up
       description: >-
