@@ -25,7 +25,7 @@ sections:
           description: Already have the code?
           url: 'https://appointment.vaccine.gov.sg'
         - title: Request for early vaccination
-          description: Key Highlight description
+          description: 'For early vaccination '
           url: ''
   - infopic:
       title: How to Sign Up
