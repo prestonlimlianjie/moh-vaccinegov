@@ -63,7 +63,7 @@ sections:
         compassionate grounds, may apply for early vaccination ahead of your
         population age group
       button: Find out more
-      url: /Appeal for early vaccination
+      url: /Appeal
   - infobar:
       title: Have more questions?
       description: Check out the Frequently Asked Questions.
