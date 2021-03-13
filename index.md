@@ -22,7 +22,7 @@ sections:
           description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
           url: /health-advisory
         - title: Request for early vaccination
-          description: 'For early vaccination '
+          description: 'Appeal for early vaccination '
           url: 'https://go.gov.sg/c19vacappeal'
         - title: Book appointment
           description: Already have the code?
