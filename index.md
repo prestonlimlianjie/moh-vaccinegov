@@ -26,7 +26,7 @@ sections:
           url: 'https://appointment.vaccine.gov.sg'
         - title: Request for early vaccination
           description: 'For early vaccination '
-          url: ''
+          url: 'https://go.gov.sg/c19vacappeal'
   - infopic:
       title: How to Sign Up
       description: >-
