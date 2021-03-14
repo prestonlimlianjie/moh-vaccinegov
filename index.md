@@ -21,9 +21,9 @@ sections:
         - title: Health Advisory
           description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
           url: /health-advisory
-        - title: Request for early vaccination
-          description: 'Appeal for early vaccination '
-          url: 'https://go.gov.sg/c19vacappeal'
+        - title: Appeal for Early Vaccination
+          description: Submit with supporting docment
+          url: /appeal
         - title: Book appointment
           description: Already have the code?
           url: 'https://appointment.vaccine.gov.sg'
