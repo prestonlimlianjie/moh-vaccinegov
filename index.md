@@ -56,7 +56,7 @@ sections:
       image: /images/info.png
       alt: About Singapore's COVID-19 Vaccination Programme
   - infobar:
-      title: Request for early vaccination
+      title: Appeal for early vaccination
       description: >-
         Singapore Citizens and Permanent Residents with compelling reasons to
         appeal for early vaccination, such as travelling for education,
