@@ -57,11 +57,10 @@ sections:
       alt: About Singapore's COVID-19 Vaccination Programme
   - infobar:
       title: Request for early vaccination
-      subtitle: Infobar Subtitle
       description: >-
-        Singaporeans travelling for education or for employment, or on
-        compassionate grounds, may apply for early vaccination ahead of your
-        population age group
+        Singapore Citizens and Permanent Residents with compelling reasons to
+        appeal for early vaccination, such as travelling for education,
+        employment or compassion 
       button: Find out more
       url: /appeal
   - infobar:
