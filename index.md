@@ -60,7 +60,7 @@ sections:
       description: >-
         Singaporeans and PRs with compelling reasons such as travel for
         education, employment or compassionate grounds may apply with supporting
-        documentation
+        documentation.
       button: Find out more
       url: /appeal
   - infobar:
