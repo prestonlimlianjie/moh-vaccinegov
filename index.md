@@ -22,7 +22,7 @@ sections:
           description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
           url: /health-advisory
         - title: Appeal for Early Vaccination
-          description: Submit with supporting doc
+          description: Submit with supporting docs
           url: /appeal
         - title: Book appointment
           description: Already have the code?
