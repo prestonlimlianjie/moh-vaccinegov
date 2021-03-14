@@ -58,9 +58,9 @@ sections:
   - infobar:
       title: Appeal for early vaccination
       description: >-
-        Singapore Citizens and Permanent Residents with compelling reasons to
-        appeal for early vaccination, such as travelling for education,
-        employment or compassion 
+        Singaporeans and PRs with compelling reasons such as travel for
+        education, employment or compassionate grounds may apply with supporting
+        documentation
       button: Find out more
       url: /appeal
   - infobar:
