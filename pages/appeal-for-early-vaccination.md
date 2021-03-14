@@ -7,7 +7,7 @@ permalink: /appeal
 We will continue to systematically extend vaccination to other population segments from April onwards, so that all Singaporeans and long-term residents in Singapore will have the chance to be vaccinated by end-2021. In the meantime, we have received appeals from members of the public who wish to receive their vaccination early for a variety of personal reasons. While our focus has been to vaccinate identified priority groups, as more vaccine supplies arrive, we will begin to consider allowing appellants with very exceptional circumstances to receive early vaccination.
 
 #### Please fill in this [Form](https://go.gov.sg/c19vacappeal) if you are requesting for early vaccination:
-![](/images/appeal%20link.png)
+![](/images/high%20res%20appeal%20link.png)
 
 At this time, MOH is approving appeals only for Singapore Citizens and Permanent Residents based in Singapore who meet the following criteria:
 
