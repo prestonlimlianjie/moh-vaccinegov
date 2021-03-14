@@ -9,7 +9,7 @@ We will continue to systematically extend vaccination to other population segmen
 #### Please fill in this [Form](https://go.gov.sg/c19vacappeal) if you are requesting for early vaccination
 ![](/images/appeal%20link.png)
 
-At this time, MOH is approving appeals only for Singapore Citizens and Permanent Residents based in Singapore who meet the following criteria
+At this time, MOH is approving appeals only for Singapore Citizens and Permanent Residents based in Singapore who meet the following criteria:
 
 
 | Category| Criteria | 
@@ -20,7 +20,7 @@ At this time, MOH is approving appeals only for Singapore Citizens and Permanent
 
  Applications with no supporting documents attached will not be entertained. All other applications will be considered on an exceptional basis only.
 
-We will prioritise applicants who are able to receive the full COVID-19 vaccination (2 doses, 21-28 days apart). Please note that for the current vaccines available, two doses are required three to four weeks apart, and require a further two weeks after the second dose to be fully effective. To provide sufficient lead time for processing and scheduling, you should submit your request at least **8 weeks** before departure from Singapore.
+We will prioritise applicants who are able to receive the full COVID-19 vaccination. Please note that for the current vaccines available, two doses are required three to four weeks apart, and require a further two weeks after the second dose to be fully effective. To provide sufficient lead time for processing and scheduling, you should submit your request at least **8 weeks** before departure from Singapore.
 
 
 Submission of this form does not guarantee prioritisation for vaccination. Successful applicants will be notified by email. Re-appeals will not be entertained unless there are new grounds for consideration.
