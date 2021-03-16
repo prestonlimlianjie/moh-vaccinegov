@@ -14,7 +14,7 @@ At this time, MOH is approving appeals only for Singapore Citizens and Permanent
 
 | Category| Criteria | 
 | -------- | -------- |
-| (1)	Travel for medical reasons/compassionate grounds    |•	Applicant / immediate family member (IFM) seeking medically <u> necessary </u> treatment which cannot be reasonably received in Singapore <br>•	Overseas-based IFM is critically ill<br>•	Attend to post-death matters of an overseas-based IFM  <br><br>*Immediate family members are limited to parents, spouse, children, siblings, grandparents, including in-laws only*.
+| (1)	Travel for medical reasons/compassionate grounds    |•	Applicant / immediate family member (IFM) seeking medically <u> necessary </u> treatment which cannot be reasonably received in Singapore <br>•	Overseas-based IFM is critically ill<br>•	Attend to post-death matters of an overseas-based IFM  <br><br>*IFMs are limited to parents, parents-in-law, spouse, children, siblings, siblings-in-law, grandparents and grandparents-in-law only*.
 (2)	To take up or complete a formal education/vocational programme overseas    | Please submit your application <u>only</u> if you are travelling to take up or completing a formal education/vocational programme. <br> <br>	•	Physical presence in the foreign institution is required to start/complete course<br>•	Physical presence in the foreign institution is required for course examination.  <br>•	Physical presence is required to gain entry to the institution
 (3)	To take up a new job or return to employment overseas    | Take up or return to overseas employment, or be based overseas for work for which working from Singapore is not possible <u> and</u> not going overseas would result in <u>the loss of the job</u>. 
 
