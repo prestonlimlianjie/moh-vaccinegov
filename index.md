@@ -30,8 +30,8 @@ sections:
   - infopic:
       title: How to Sign Up
       description: >-
-        Appointment slots are now open for healthcare, frontline workers and
-        seniors from 60 years old and above. 
+        The COVID-19 vaccination programme is being progressively rolled out to
+        all Singaporeans and long term residents
       image: /images/vaccinate.png
       button: Learn More
       url: /how-to-sign-up
