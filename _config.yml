@@ -57,4 +57,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 is_government: true
-google_analytics: G-VLCB77VSQY
+google_analytics: UA-191846183-3
