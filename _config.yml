@@ -21,7 +21,7 @@ collections:
   how-to-sign-up:
     output: true
   locations:
-    output: true  
+    output: true
 resources_name: News
 description: COVID-19 Vaccination Registration
 permalink: none
@@ -57,3 +57,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 is_government: true
+google_analytics: UA-191846183-3
