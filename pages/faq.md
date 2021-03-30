@@ -10,7 +10,7 @@ permalink: /faq
 						<input type="checkbox" id="question-1-1">
 						<label class="tab-label" for="question-1-1">Is the vaccine free?</label>
 						<div class="tab-content">
-							<p>The vaccine is free for all Singaporeans and long-term residents in Singapore, which includes Singapore Permanent Residents, and Employement Pass holders.</p>
+							<p>The vaccine is free for all Singaporeans and long-term residents in Singapore, which includes Singapore Permanent Residents, and Employment Pass holders.</p>
 						</div>
 					</div>
 					<!-- end of each question -->
