@@ -69,4 +69,9 @@ sections:
       button: Read FAQ
       url: /faq
       alt: Read FAQ
+  - infobar:
+      title: Beware of scam
+      description: 'When in doubt, please verify by calling MOH hotline 1800-333-9999'
+      button: Learn more
+      url: /scam/
 ---
