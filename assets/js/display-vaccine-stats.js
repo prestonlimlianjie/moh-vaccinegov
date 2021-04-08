@@ -8,7 +8,7 @@ axios.get('https://raw.githubusercontent.com/prestonlimlianjie/hello-alert/main/
   // for mobile, tablet, and desktop with the same classname in `_includes/vaccine-stats.html`
   const vacTotalNumElemArray = document.getElementsByClassName('vaccinated-total-num')
   for (let i = 0, len = vacTotalNumElemArray.length; i < len; i++) {
-    vacTotalNumElemArray[i].innerHTML = '1'
+    vacTotalNumElemArray[i].innerHTML = totalVaccinatedNum
     console.log(vacTotalNumElemArray[i])
   }
 })
