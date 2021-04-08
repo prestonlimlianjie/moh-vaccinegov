@@ -1,0 +1,32 @@
+<section class="bp-section">
+  <div class="bp-container">
+      {%- comment -%} mobile edition {%- endcomment -%}
+      <div class="row is-hidden-desktop is-hidden-tablet-only">
+          <div class="col padding--bottom">
+              <h1 class="has-text-secondary padding--bottom vaccinated-total-num">
+                Total vaccinated
+              </h1>
+          </div>
+      </div>
+      {%- comment -%} tablet edition {%- endcomment -%}
+      <div class="row is-hidden-mobile is-hidden-desktop">
+          <div class="col">
+            <h1 class="has-text-secondary padding--bottom vaccinated-total-num">
+              Total vaccinated
+            </h1>
+          </div>
+      </div>
+      {%- comment -%} desktop edition {%- endcomment -%}
+      <div class="row is-hidden-mobile is-hidden-tablet-only">
+        <div class="col">
+          <h1 class="has-text-secondary padding--bottom vaccinated-total-num">
+            Total vaccinated
+          </h1>
+        </div>
+      </div>
+  </div>
+</section>
+
+<!-- Scripts to display the vaccine stats -->
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="/assets/js/display-vaccine-stats.js"></script>

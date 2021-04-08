@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: vaccine-homepage
 title: MOH COVID-19 Vaccination Registration
 description: MOH COVID-19 Vaccination in Singapore
 image: /images/isomer-logo.svg
